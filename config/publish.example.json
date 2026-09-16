@@ -1,7 +1,5 @@
 {
   "buildOutputDirectory": "../artifacts",
   "publishDirectory": "\\\\SERVER\\Software\\ArtiosCADFastExport",
-  "releaseDirectoryName": "releases",
-  "activeReleaseFile": "active-release.json",
-  "retainReleaseCount": 5
+  "version": "0.1.0-pilot.1"
 }

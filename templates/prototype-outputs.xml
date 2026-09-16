@@ -1,0 +1,2243 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<OUTPUTTEMPLATE HighestSavedVersion="22.07" LastSavedVersion="22.07">
+  <DTABLEITEM Name="SYBOX - Kongsberg XL44">
+    <DFOLDER Name="Device">
+      <DVALUE Name="OutputType" Value="1" />
+      <DVALUE Name="SeparatePartialCuts" Value="0" />
+      <DVALUE Name="WindowsDriver" Value="1" />
+      <DVALUE Name="PrinterName" Value="" />
+      <DVALUE Name="DeviceName" Value="" />
+      <DVALUE Name="DeviceType" Value="0" />
+      <DVALUE Name="TuneFile" Value="Kongsberg_Samplemaker_Corrugated.XTUNE" />
+      <DVALUE Name="CamTuneFileDesc" Value="Kongsberg XL44 Corrugated (GNC)" />
+      <DVALUE Name="CamDriverName" Value="GNC" />
+      <DVALUE Name="PaperOrientation" Value="0" />
+      <DVALUE Name="NumCopies" Value="1" />
+      <DVALUE Name="SpecifyScale" Value="1" />
+      <DVALUE Name="Scale" Value="3f800000" />
+      <DVALUE Name="UseStretch" Value="0" />
+      <DVALUE Name="YScale" Value="3f800000" />
+      <DVALUE Name="CamDriverOptions" Value="" />
+      <DVALUE Name="ShowCmdForDebug" Value="0" />
+      <DVALUE Name="UseOutputCmdFile" Value="0" />
+      <DVALUE Name="OutputCmdFile" Value="" />
+      <DVALUE Name="ShownInOutput" Value="1" />
+      <DVALUE Name="ShownInExport" Value="0" />
+      <DVALUE Name="ShownInSend" Value="0" />
+      <DVALUE Name="ShownInBatch" Value="0" />
+      <DVALUE Name="ShownInWebCenter" Value="0" />
+      <DVALUE Name="ShownIn3D" Value="0" />
+      <DVALUE Name="ShownInProjectBOM" Value="0" />
+      <DVALUE Name="ShownInBrowser" Value="0" />
+      <DVALUE Name="ShownInCanvasBOM" Value="0" />
+      <DVALUE Name="BitmapFormat" Value="0" />
+      <DVALUE Name="BitmapRemoveWhiteSpace" Value="1" />
+      <DVALUE Name="BitmapJPEGQuality" Value="50" />
+      <DVALUE Name="BitmapBorder" Value="3" />
+      <DVALUE Name="BitmapSizeX" Value="64" />
+      <DVALUE Name="BitmapSizeY" Value="64" />
+      <DVALUE Name="HighGraphics" Value="e4e1c0" />
+      <DVALUE Name="OutputLayerName" Value="" />
+      <DVALUE Name="AutoOverwriteLayer" Value="1" />
+      <DVALUE Name="BitmapName" Value="custom_output.bmp" />
+      <DVALUE Name="VirtKey" Value="0" />
+      <DVALUE Name="ShortCut" Value="0" />
+      <DVALUE Name="AutoPreview" Value="0" />
+      <DVALUE Name="DefLayoutType" Value="1" />
+      <DVALUE Name="DefWindowSize" Value="1" />
+      <DVALUE Name="UNCDataSetName" Value="" />
+      <DVALUE Name="InfoFilterScaleExpr" Value="1.0" />
+      <DVALUE Name="InfoFilterYScaleExpr" Value="1.0" />
+    </DFOLDER>
+    <DFOLDER Name="Position">
+      <DVALUE Name="PrintRotation" Value="0" />
+      <DVALUE Name="PrintMirror" Value="0" />
+      <DVALUE Name="PrintPosition" Value="6" />
+      <DVALUE Name="OffsetX" Value="0" />
+      <DVALUE Name="OffsetY" Value="0" />
+      <DVALUE Name="PrintSide" Value="1" />
+      <DVALUE Name="FPos_XOff" Value="0" />
+      <DVALUE Name="FPos_YOff" Value="0" />
+      <DVALUE Name="FPos_Just" Value="baadf00d" />
+      <DVALUE Name="FPos_Type" Value="2" />
+      <DFOLDER Name="Paper Size">
+        <DVALUE Name="Height" Value="450a2000" />
+        <DVALUE Name="Width" Value="453ea000" />
+        <DVALUE Name="StartX" Value="0" />
+        <DVALUE Name="StartY" Value="0" />
+      </DFOLDER>
+      <DFOLDER Name="Margins">
+        <DVALUE Name="Left" Value="0" />
+        <DVALUE Name="Right" Value="0" />
+        <DVALUE Name="Top" Value="0" />
+        <DVALUE Name="Bottom" Value="0" />
+      </DFOLDER>
+      <DFOLDER Name="Windows Driver Pos">
+        <DVALUE Name="Left" Value="3f000000" />
+        <DVALUE Name="Right" Value="3f000000" />
+        <DVALUE Name="Top" Value="3f000000" />
+        <DVALUE Name="Bottom" Value="3f000000" />
+        <DVALUE Name="StartX" Value="0" />
+        <DVALUE Name="StartY" Value="0" />
+      </DFOLDER>
+    </DFOLDER>
+    <DFOLDER Name="Forms">
+      <DVALUE Name="UseForm" Value="0" />
+      <DVALUE Name="Name" Value="" />
+      <DVALUE Name="UseU3D" Value="0" />
+      <DVALUE Name="UseBlkGridPages" Value="0" />
+    </DFOLDER>
+    <DFOLDER Name="Sample Making">
+      <DFOLDER Name="Line Types">
+        <DVALUE Name="LineType0" Value="9" />
+        <DVALUE Name="LineType1" Value="9" />
+        <DVALUE Name="LineType2" Value="a" />
+        <DVALUE Name="LineType3" Value="a" />
+        <DVALUE Name="LineType4" Value="a" />
+        <DVALUE Name="LineType5" Value="2" />
+        <DVALUE Name="LineType6" Value="a" />
+        <DVALUE Name="LineType7" Value="1" />
+        <DVALUE Name="LineType8" Value="3" />
+        <DVALUE Name="LineType9" Value="9" />
+        <DVALUE Name="LineType10" Value="9" />
+        <DVALUE Name="LineType11" Value="8" />
+        <DVALUE Name="LineType12" Value="8" />
+        <DVALUE Name="LineType13" Value="8" />
+        <DVALUE Name="LineType14" Value="8" />
+        <DVALUE Name="LineType15" Value="c" />
+        <DVALUE Name="LineType16" Value="0" />
+        <DVALUE Name="LineType17" Value="a" />
+        <DVALUE Name="LineType18" Value="a" />
+        <DVALUE Name="LineType19" Value="9" />
+        <DVALUE Name="LineType20" Value="9" />
+        <DVALUE Name="LineType21" Value="9" />
+        <DVALUE Name="LineType22" Value="a" />
+        <DVALUE Name="LineType23" Value="a" />
+        <DVALUE Name="LineType24" Value="a" />
+        <DVALUE Name="LineType25" Value="a" />
+        <DVALUE Name="LineType26" Value="4" />
+        <DVALUE Name="UsePlotterFont" Value="1" />
+        <DVALUE Name="PerfCutBack" Value="0" />
+        <DVALUE Name="GPerfCutLen" Value="40c00000" />
+        <DVALUE Name="GPerfGapLen" Value="40c00000" />
+        <DVALUE Name="GCCCutLen" Value="40c00000" />
+        <DVALUE Name="GCCCreaseLen" Value="40c00000" />
+        <DVALUE Name="GGlueAssistCutLen" Value="40c00000" />
+        <DVALUE Name="GGlueAssistGapLen" Value="40c00000" />
+        <DVALUE Name="GPerfInChannelCutLen" Value="40c00000" />
+        <DVALUE Name="GPerfInChannelGapLen" Value="40c00000" />
+        <DVALUE Name="GPartCutCreaseCutLen" Value="40c00000" />
+        <DVALUE Name="GPartCutCreaseGapLen" Value="40c00000" />
+        <DVALUE Name="MakeNicks" Value="1" />
+        <DVALUE Name="AdjustOverCut" Value="0" />
+        <DVALUE Name="Caliper" Value="0" />
+        <DVALUE Name="CutStrippingRules" Value="1" />
+        <DVALUE Name="DrillDiam" Value="0" />
+      </DFOLDER>
+      <DFOLDER Name="Sequencing">
+        <DVALUE Name="RoundSlotMethod" Value="1" />
+        <DVALUE Name="TearDist" Value="41000419" />
+        <DVALUE Name="TearAngle" Value="42700000" />
+        <DVALUE Name="OvercutMethod" Value="0" />
+        <DVALUE Name="SplitLines" Value="0" />
+        <DVALUE Name="CutOvercrease" Value="41c80000" />
+        <DVALUE Name="GapOvercrease" Value="41c80000" />
+        <DVALUE Name="RoundCorners" Value="0" />
+        <DVALUE Name="Radius" Value="3fc00000" />
+        <DVALUE Name="MinLength" Value="41200000" />
+        <DVALUE Name="GapFuzz" Value="3e820c4a" />
+        <DVALUE Name="SlotParam" Value="3fa28f5c" />
+        <DVALUE Name="TangTol" Value="41c80000" />
+      </DFOLDER>
+      <DFOLDER Name="Creases">
+        <DVALUE Name="CreaseCutBack" Value="40000000" />
+        <DVALUE Name="DoublePass" Value="0" />
+        <DVALUE Name="noDoubleLines" Value="0" />
+        <DVALUE Name="FixedOffsetOn" Value="0" />
+        <DVALUE Name="FixedOffset" Value="0" />
+        <DVALUE Name="MultOfCalOn" Value="0" />
+        <DVALUE Name="MultOfCal" Value="0" />
+        <DVALUE Name="PointageOn" Value="0" />
+        <DVALUE Name="Pointage" Value="3f361134" />
+        <DVALUE Name="Pointage2" Value="3f361134" />
+        <DVALUE Name="RevDoublePass" Value="0" />
+        <DVALUE Name="SecondCrease" Value="1" />
+        <DVALUE Name="SecondThickCrease" Value="0" />
+      </DFOLDER>
+      <DFOLDER Name="Counter">
+        <DVALUE Name="CreaseType" Value="3" />
+        <DVALUE Name="GrainPFactor" Value="3f800000" />
+        <DVALUE Name="GrainCALFactor" Value="40000000" />
+        <DVALUE Name="GrainWidth" Value="0" />
+        <DVALUE Name="CrossGrainPFactor" Value="3f800000" />
+        <DVALUE Name="CrossGrainCALFactor" Value="40000000" />
+        <DVALUE Name="CrossGrainWidth" Value="3dd013a9" />
+        <DVALUE Name="CounterCutBack" Value="3f800000" />
+        <DVALUE Name="ChannelAngle" Value="42480000" />
+        <DVALUE Name="RouterWidth" Value="3fa28f5c" />
+        <DVALUE Name="SecondRouter" Value="0" />
+        <DVALUE Name="SecondRouterWidth" Value="3faf9097" />
+        <DVALUE Name="CreaseType1" Value="3" />
+        <DVALUE Name="GrainPFactor1" Value="3f800000" />
+        <DVALUE Name="GrainCALFactor1" Value="40000000" />
+        <DVALUE Name="GrainWidth1" Value="0" />
+        <DVALUE Name="CrossGrainPFactor1" Value="3f800000" />
+        <DVALUE Name="CrossGrainCALFactor1" Value="40000000" />
+        <DVALUE Name="CrossGrainWidth1" Value="3dd013a9" />
+        <DVALUE Name="CounterCutBack1" Value="3f800000" />
+        <DVALUE Name="ChannelAngle1" Value="42480000" />
+        <DVALUE Name="RouterWidth1" Value="3fa28f5c" />
+        <DVALUE Name="SecondRouter1" Value="0" />
+        <DVALUE Name="SecondRouterWidth1" Value="3faf9097" />
+        <DVALUE Name="CreaseType2" Value="3" />
+        <DVALUE Name="GrainPFactor2" Value="3f800000" />
+        <DVALUE Name="GrainCALFactor2" Value="40000000" />
+        <DVALUE Name="GrainWidth2" Value="0" />
+        <DVALUE Name="CrossGrainPFactor2" Value="3f800000" />
+        <DVALUE Name="CrossGrainCALFactor2" Value="40000000" />
+        <DVALUE Name="CrossGrainWidth2" Value="3dd013a9" />
+        <DVALUE Name="CounterCutBack2" Value="3f800000" />
+        <DVALUE Name="ChannelAngle2" Value="42480000" />
+        <DVALUE Name="RouterWidth2" Value="3fa28f5c" />
+        <DVALUE Name="SecondRouter2" Value="0" />
+        <DVALUE Name="SecondRouterWidth2" Value="3faf9097" />
+        <DVALUE Name="GrainAngleTol" Value="41700000" />
+      </DFOLDER>
+    </DFOLDER>
+    <DFOLDER Name="Directories">
+      <DVALUE Name="DestinationType" Value="1" />
+      <DVALUE Name="OutputToFile" Value="1" />
+      <DVALUE Name="MakeDOSCompatible" Value="0" />
+      <DVALUE Name="StripOption" Value="0" />
+      <DVALUE Name="AutoOverwrite" Value="1" />
+      <DVALUE Name="SkipSaveAsDlg" Value="1" />
+      <DVALUE Name="SkipOutputDlg" Value="0" />
+      <DVALUE Name="PromptForProjectDoc" Value="1" />
+      <DVALUE Name="FixedProjectName" Value="0" />
+      <DVALUE Name="ProjectNameUseLibFnction" Value="0" />
+      <DVALUE Name="ProjectName" Value="" />
+      <DVALUE Name="AutoCreateProject" Value="1" />
+      <DVALUE Name="FixedProjectTemplate" Value="0" />
+      <DVALUE Name="ProjectTemplateUseLibFnction" Value="0" />
+      <DVALUE Name="ProjectTemplate" Value="" />
+      <DFOLDER Name="Counter">
+        <DVALUE Name="Extension" Value="C.ACM" />
+        <DVALUE Name="Directory" Value="{{ACMDIR}}" />
+        <DVALUE Name="FixedFileName" Value="0" />
+        <DVALUE Name="FromCmdFile" Value="0" />
+        <DVALUE Name="DirFromCmdFile" Value="0" />
+        <DVALUE Name="ProjectFolderOption" Value="0" />
+        <DVALUE Name="ProjectFolderName" Value="" />
+        <DVALUE Name="ProjectFolderUseLibFnctn" Value="0" />
+        <DVALUE Name="VersionCommentOption" Value="0" />
+        <DVALUE Name="VersionComment" Value="" />
+        <DVALUE Name="VersionCommentUseLibFnctn" Value="0" />
+      </DFOLDER>
+      <DFOLDER Name="PartialCuts">
+        <DVALUE Name="Extension" Value="P.ACM" />
+        <DVALUE Name="Directory" Value="{{ACMDIR}}" />
+        <DVALUE Name="FixedFileName" Value="0" />
+        <DVALUE Name="FromCmdFile" Value="0" />
+        <DVALUE Name="DirFromCmdFile" Value="0" />
+        <DVALUE Name="ProjectFolderOption" Value="0" />
+        <DVALUE Name="ProjectFolderName" Value="" />
+        <DVALUE Name="ProjectFolderUseLibFnctn" Value="0" />
+        <DVALUE Name="VersionCommentOption" Value="0" />
+        <DVALUE Name="VersionComment" Value="" />
+        <DVALUE Name="VersionCommentUseLibFnctn" Value="0" />
+      </DFOLDER>
+      <DFOLDER Name="MakeSample">
+        <DVALUE Name="Extension" Value=".ACM" />
+        <DVALUE Name="Directory" Value="{{ACMDIR}}" />
+        <DVALUE Name="FixedFileName" Value="0" />
+        <DVALUE Name="FromCmdFile" Value="0" />
+        <DVALUE Name="DirFromCmdFile" Value="0" />
+        <DVALUE Name="ProjectFolderOption" Value="0" />
+        <DVALUE Name="ProjectFolderName" Value="" />
+        <DVALUE Name="ProjectFolderUseLibFnctn" Value="0" />
+        <DVALUE Name="VersionCommentOption" Value="0" />
+        <DVALUE Name="VersionComment" Value="" />
+        <DVALUE Name="VersionCommentUseLibFnctn" Value="0" />
+      </DFOLDER>
+    </DFOLDER>
+    <DFOLDER Name="View">
+      <DVALUE Name="PrintStyle" Value="CAM.ARTIOS.GCMC" />
+      <DVALUE Name="LayerSelSet" Value="0" />
+      <DVALUE Name="UserLayerList" Value="" />
+      <DVALUE Name="MfgPredLayerList" Value="" />
+      <DVALUE Name="RotDieViewLevel" Value="0" />
+      <DVALUE Name="AutoAdjustText" Value="0" />
+      <DVALUE Name="MinTextSize" Value="0" />
+      <DVALUE Name="MaxTextSize" Value="0" />
+      <DVALUE Name="RemoveExtLines" Value="0" />
+      <DVALUE Name="GenLeaderHoles" Value="0" />
+      <DVALUE Name="NoHolesInCorners" Value="0" />
+      <DVALUE Name="AdjustLeaderHolesOnBridges" Value="0" />
+      <DVALUE Name="LeaderHoleAllowReduction" Value="3ecb3333" />
+      <DVALUE Name="RuleLabels" Value="0" />
+      <DVALUE Name="FullBoardDepth" Value="41cb3333" />
+      <DVALUE Name="LeaderHoleNoHoleLen" Value="40cb3333" />
+      <DVALUE Name="LeaderHoleLeadInLen" Value="404b3333" />
+      <DVALUE Name="LeaderHoleOneHoleLen" Value="41186666" />
+      <DVALUE Name="LeaderHoleLongSawLen" Value="42fe0000" />
+      <DVALUE Name="ViewSelection" Value="2" />
+      <DVALUE Name="UseSelectionForReports" Value="0" />
+      <DFOLDER Name="Dimension Format Table">
+        <DVALUE Name="OverrideDimFormat" Value="0" />
+        <DVALUE Name="UnitType" Value="0" />
+        <DVALUE Name="InchFormatType" Value="D" />
+        <DVALUE Name="InchNumDP" Value="3" />
+        <DVALUE Name="MMNumDP" Value="3" />
+        <DVALUE Name="ShowTrailZeros" Value="1" />
+        <DVALUE Name="RoundDimVal" Value="0" />
+        <DVALUE Name="ConsistentDim" Value="0" />
+        <DVALUE Name="WarningRoundDim" Value="0" />
+      </DFOLDER>
+    </DFOLDER>
+    <DFOLDER Name="Print Sample">
+      <DVALUE Name="OutputToFile" Value="1" />
+      <DVALUE Name="DeviceName" Value="" />
+      <DVALUE Name="DeviceType" Value="1" />
+      <DVALUE Name="DriverName" Value="PCL" />
+      <DVALUE Name="PlotCommand" Value="1" />
+      <DVALUE Name="DriverFound" Value="1" />
+      <DVALUE Name="TuneFile" Value="TUNE.ARTIOS.ILL2.TXT" />
+      <DVALUE Name="CamTuneFileDesc" Value="Artios Illustrator II COR" />
+      <DVALUE Name="WindowsDriver" Value="2" />
+      <DVALUE Name="PrinterName" Value="" />
+      <DVALUE Name="PaperOrientation" Value="0" />
+      <DVALUE Name="NumCopies" Value="1" />
+      <DVALUE Name="CamDriverOptions" Value="" />
+      <DFOLDER Name="PrintSample">
+        <DVALUE Name="Extension" Value=".PRN" />
+        <DVALUE Name="Directory" Value="C:\CAM" />
+        <DVALUE Name="FixedFileName" Value="0" />
+        <DVALUE Name="FromCmdFile" Value="0" />
+        <DVALUE Name="DirFromCmdFile" Value="0" />
+        <DVALUE Name="ProjectFolderOption" Value="0" />
+        <DVALUE Name="ProjectFolderName" Value="" />
+        <DVALUE Name="ProjectFolderUseLibFnctn" Value="0" />
+        <DVALUE Name="VersionCommentOption" Value="0" />
+        <DVALUE Name="VersionComment" Value="" />
+        <DVALUE Name="VersionCommentUseLibFnctn" Value="0" />
+      </DFOLDER>
+      <DFOLDER Name="Margins">
+        <DVALUE Name="Left" Value="0" />
+        <DVALUE Name="Right" Value="0" />
+        <DVALUE Name="Top" Value="0" />
+        <DVALUE Name="Bottom" Value="0" />
+      </DFOLDER>
+    </DFOLDER>
+    <DFOLDER Name="Print Sample Position">
+      <DVALUE Name="PrintRotation" Value="0" />
+      <DVALUE Name="PrintMirror" Value="0" />
+      <DVALUE Name="PrintPosition" Value="4" />
+      <DVALUE Name="OffsetX" Value="0" />
+      <DVALUE Name="OffsetY" Value="0" />
+      <DVALUE Name="PrintSide" Value="2" />
+      <DVALUE Name="FPos_XOff" Value="0" />
+      <DVALUE Name="FPos_YOff" Value="0" />
+      <DVALUE Name="FPos_Just" Value="4" />
+      <DVALUE Name="FPos_Type" Value="ffffffff" />
+      <DFOLDER Name="Paper Size">
+        <DVALUE Name="Height" Value="438bb333" />
+        <DVALUE Name="Width" Value="4357e666" />
+        <DVALUE Name="StartX" Value="0" />
+        <DVALUE Name="StartY" Value="0" />
+      </DFOLDER>
+      <DFOLDER Name="Margins">
+        <DVALUE Name="Left" Value="0" />
+        <DVALUE Name="Right" Value="0" />
+        <DVALUE Name="Top" Value="0" />
+        <DVALUE Name="Bottom" Value="0" />
+      </DFOLDER>
+      <DFOLDER Name="Windows Driver Pos">
+        <DVALUE Name="Left" Value="3f000000" />
+        <DVALUE Name="Right" Value="3f000000" />
+        <DVALUE Name="Top" Value="3f000000" />
+        <DVALUE Name="Bottom" Value="3f000000" />
+        <DVALUE Name="StartX" Value="0" />
+        <DVALUE Name="StartY" Value="0" />
+      </DFOLDER>
+    </DFOLDER>
+    <DFOLDER Name="Optimization">
+      <DVALUE Name="OptimizeOption" Value="0" />
+      <DVALUE Name="ProcSpRuleOpt" Value="0" />
+      <DVALUE Name="ProcBridgeOpt" Value="ffffffff" />
+      <DVALUE Name="EnableSubroutinedOutput" Value="1" />
+      <DVALUE Name="UsePlotterFont" Value="3" />
+      <DVALUE Name="LaserTuningEntry" Value="" />
+      <DVALUE Name="LaserTuningKey" Value="" />
+      <DVALUE Name="IgnoreDieSplits" Value="0" />
+      <DVALUE Name="NickStyle" Value="" />
+      <DVALUE Name="NickGaps" Value="0" />
+      <DVALUE Name="UnderCutAtDieSplitsLen" Value="0" />
+      <DVALUE Name="UnderCutAtCreaseEndsLen" Value="0" />
+      <DVALUE Name="MinUnderCutLen" Value="414b3333" />
+      <DVALUE Name="SoftwareLineStyles" Value="0" />
+      <DVALUE Name="FillRubber" Value="1" />
+      <DVALUE Name="FillRubberColorOption" Value="0" />
+      <DVALUE Name="ShowRubberElemNum" Value="0" />
+      <DVALUE Name="ShowRubberElemNumItalic" Value="1" />
+      <DVALUE Name="ShowRubberElemNumSize" Value="42400000" />
+      <DVALUE Name="ShowBlkGridId" Value="0" />
+      <DVALUE Name="ShowBlkGridIdSize" Value="43480000" />
+      <DVALUE Name="CreaseCutbackInfoData" Value="0" />
+      <DVALUE Name="CreaseCutbackInfoSize" Value="43480000" />
+      <DVALUE Name="ZeroLengthLines" Value="0" />
+      <DVALUE Name="StrippingAreas" Value="0" />
+      <DVALUE Name="StationNumbers" Value="1" />
+      <DVALUE Name="WasteNumbers" Value="1" />
+    </DFOLDER>
+    <DFOLDER Name="KGB Link">
+      <DVALUE Name="AutoOpenKGBGui" Value="0" />
+      <DVALUE Name="PickKGBMaterialFile" Value="0" />
+      <DVALUE Name="KGBSourceOption" Value="0" />
+      <DVALUE Name="PickKGBMaterialFilePath" Value="" />
+      <DVALUE Name="IPCSystemName" Value="" />
+    </DFOLDER>
+    <DFOLDER Name="Tiling Data">
+      <DVALUE Name="RegMarkSize" Value="41cb3333" />
+      <DVALUE Name="TileOverlap" Value="0" />
+      <DVALUE Name="RegHoleSize" Value="40cb3333" />
+      <DVALUE Name="RegMarkOffset" Value="0" />
+      <DVALUE Name="UsingSampleCounter" Value="1" />
+      <DVALUE Name="TileFileExtString" Value="_" />
+      <DVALUE Name="TileFileExtGenOption" Value="0" />
+      <DVALUE Name="SkipEmptyTiles" Value="0" />
+      <DVALUE Name="PauseBetweenTiles" Value="0" />
+      <DVALUE Name="AllTilesOneFile" Value="0" />
+    </DFOLDER>
+    <DFOLDER Name="Information Filter">
+      <DVALUE Name="InfoType1" Value="1" />
+      <DVALUE Name="InfoType2" Value="1" />
+      <DVALUE Name="InfoType3" Value="1" />
+      <DVALUE Name="InfoType4" Value="1" />
+      <DVALUE Name="InfoType5" Value="1" />
+      <DVALUE Name="InfoType6" Value="1" />
+      <DVALUE Name="InfoType7" Value="1" />
+      <DVALUE Name="InfoType8" Value="1" />
+      <DVALUE Name="InfoType9" Value="1" />
+      <DVALUE Name="InfoType10" Value="1" />
+      <DVALUE Name="InfoType11" Value="1" />
+      <DVALUE Name="DesignLayer1" Value="1" />
+      <DVALUE Name="DesignLayer2" Value="1" />
+      <DVALUE Name="DesignLayer3" Value="1" />
+      <DVALUE Name="DesignLayer4" Value="1" />
+      <DVALUE Name="DesignLayer5" Value="1" />
+      <DVALUE Name="DesignLayer6" Value="1" />
+      <DVALUE Name="DesignLayer7" Value="1" />
+      <DVALUE Name="DesignLayer8" Value="1" />
+      <DVALUE Name="DesignLayer9" Value="1" />
+      <DVALUE Name="DesignLayer10" Value="1" />
+      <DVALUE Name="DesignLayer11" Value="1" />
+      <DVALUE Name="DesignLayer14" Value="1" />
+      <DVALUE Name="DesignLayer15" Value="1" />
+      <DVALUE Name="DesignLayer16" Value="1" />
+      <DVALUE Name="DesignLayer17" Value="1" />
+      <DVALUE Name="DesignLayer18" Value="1" />
+      <DVALUE Name="DesignLayer19" Value="1" />
+      <DVALUE Name="DesignLayer20" Value="1" />
+      <DVALUE Name="DesignLayer21" Value="1" />
+      <DVALUE Name="DesignLayer22" Value="1" />
+      <DVALUE Name="DesignLayer23" Value="1" />
+      <DVALUE Name="DesignLayer24" Value="1" />
+      <DVALUE Name="DesignLayer25" Value="1" />
+      <DVALUE Name="ManuLayer1" Value="1" />
+      <DVALUE Name="ManuLayer2" Value="1" />
+      <DVALUE Name="ManuLayer3" Value="1" />
+      <DVALUE Name="ManuLayer4" Value="1" />
+      <DVALUE Name="ManuLayer5" Value="1" />
+      <DVALUE Name="ManuLayer6" Value="1" />
+      <DVALUE Name="ManuLayer7" Value="1" />
+      <DVALUE Name="ManuLayer8" Value="1" />
+      <DVALUE Name="ArtiosCADFormat" Value="0" />
+      <DVALUE Name="EmbedDepFiles" Value="0" />
+    </DFOLDER>
+    <DFOLDER Name="Send to">
+      <DVALUE Name="UseEmail" Value="0" />
+      <DVALUE Name="PromptForMessage" Value="0" />
+      <DVALUE Name="InsertOption" Value="0" />
+      <DVALUE Name="DeleteOriginal" Value="1" />
+      <DVALUE Name="ToRecipient" Value="" />
+      <DVALUE Name="CcRecipient" Value="" />
+      <DVALUE Name="Subject" Value="" />
+    </DFOLDER>
+    <DFOLDER Name="Group">
+      <DVALUE Name="OutputList" Value="" />
+      <DVALUE Name="OutputListData" Value="" />
+      <DVALUE Name="RunSave" Value="0" />
+      <DVALUE Name="RunSaveAs" Value="0" />
+      <DVALUE Name="GroupedOutputType" Value="0" />
+    </DFOLDER>
+    <DFOLDER Name="Advanced Data">
+      <DVALUE Name="UseOutputCmdFile" Value="0" />
+      <DVALUE Name="OutputCmdFile" Value="" />
+      <DVALUE Name="OutputCmdFileParams" Value="" />
+      <DVALUE Name="UseOutputPPCmdFile" Value="0" />
+      <DVALUE Name="OutputPPCmdFile" Value="" />
+      <DVALUE Name="UsePromptingReport" Value="0" />
+      <DVALUE Name="PromptingReportName" Value="" />
+      <DVALUE Name="RTDatSet" Value="" />
+      <DVALUE Name="LaunchExeOption" Value="0" />
+      <DVALUE Name="ExeToLaunch" Value="" />
+      <DVALUE Name="ExeBlockOption" Value="1" />
+      <DVALUE Name="ExeInputParamOption" Value="0" />
+      <DVALUE Name="ExeOutputParamOption" Value="0" />
+      <DVALUE Name="ExeAddParamFormula" Value="" />
+    </DFOLDER>
+    <DFOLDER Name="Counter parameter sets">
+      <DVALUE Name="WithGrainCreaseToolWidth" Value="3fd9999a" />
+      <DVALUE Name="WithGrainCreaseToolMultiPass" Value="1" />
+      <DVALUE Name="CrossGrainCreaseToolWidth" Value="3fe66666" />
+      <DVALUE Name="CrossGrainCreaseToolMultiPass" Value="1" />
+      <DVALUE Name="CreaseEndToolWidth" Value="3fa66666" />
+      <DVALUE Name="WithGrainSlotToolWidth" Value="3fd9999a" />
+      <DVALUE Name="WithGrainSlotToolMultiPass" Value="1" />
+      <DVALUE Name="CrossGrainSlotToolWidth" Value="3fe66666" />
+      <DVALUE Name="CrossGrainSlotToolMultiPass" Value="1" />
+      <DVALUE Name="MillingToolWidth" Value="3fa66666" />
+      <DVALUE Name="PosHolesToolWidth" Value="3fa66666" />
+      <DVALUE Name="PosHolesToolDiamAllowed" Value="1" />
+      <DVALUE Name="MillingDirection" Value="0" />
+      <DVALUE Name="MillingOverlap" Value="3dcccccd" />
+      <DVALUE Name="ToolOrderPosition0" Value="0" />
+      <DVALUE Name="ToolOrderPosition1" Value="1" />
+      <DVALUE Name="ToolOrderPosition2" Value="2" />
+      <DVALUE Name="ToolOrderPosition3" Value="3" />
+      <DVALUE Name="ToolOrderPosition4" Value="4" />
+      <DVALUE Name="ToolOrderPosition5" Value="5" />
+      <DVALUE Name="ToolOrderPosition6" Value="6" />
+      <DVALUE Name="ToolOrderPosition7" Value="7" />
+      <DVALUE Name="ToolOrderPosition8" Value="8" />
+      <DVALUE Name="ToolOrderPosition9" Value="9" />
+      <DVALUE Name="ToolOrderPosition10" Value="a" />
+      <DVALUE Name="CreaseMultiPass" Value="0" />
+    </DFOLDER>
+    <DFOLDER Name="Sequencing">
+      <DVALUE Name="Resequence" Value="1" />
+      <DVALUE Name="Start" Value="1" />
+      <DVALUE Name="Type" Value="1" />
+      <DVALUE Name="JoinOption" Value="0" />
+      <DVALUE Name="GapCutThrough" Value="414b3333" />
+    </DFOLDER>
+    <DFOLDER Name="Rubber Sheet Data">
+      <DVALUE Name="TileCodeSepString" Value="_" />
+      <DVALUE Name="TileCodeIndexSepString" Value="_" />
+      <DVALUE Name="TileCodeIndexOption" Value="0" />
+    </DFOLDER>
+    <DFOLDER Name="PDF Options">
+      <DVALUE Name="EnableOpenPswd" Value="0" />
+      <DVALUE Name="OpenPassword" Value="" />
+      <DVALUE Name="OpenEncrypted" Value="0" />
+      <DVALUE Name="EnableSecurityPerms" Value="0" />
+      <DVALUE Name="PrintingPermOption" Value="0" />
+      <DVALUE Name="ChangePermOption" Value="0" />
+      <DVALUE Name="EnableCopyText" Value="0" />
+      <DVALUE Name="EnableTextAccess" Value="0" />
+      <DVALUE Name="Encrypted" Value="0" />
+      <DVALUE Name="Password" Value="" />
+      <DVALUE Name="ImageCompression" Value="0" />
+    </DFOLDER>
+    <DFOLDER Name="U3D Options">
+      <DVALUE Name="UseViewSettings" Value="0" />
+      <DVALUE Name="UseWorkspaceBackground" Value="1" />
+      <DVALUE Name="CompressQuality" Value="50" />
+      <DVALUE Name="HighGraphics" Value="1" />
+      <DVALUE Name="CompressImageOption" Value="1" />
+      <DVALUE Name="BackgroundRed" Value="ff" />
+      <DVALUE Name="BackgroundGreen" Value="ff" />
+      <DVALUE Name="BackgroundBlue" Value="ff" />
+      <DVALUE Name="IncludeAnimations" Value="1" />
+    </DFOLDER>
+    <DFOLDER Name="BOM Options">
+      <DVALUE Name="DriverType" Value="0" />
+      <DVALUE Name="BOMReportTypes" Value="" />
+      <DVALUE Name="BOMReports" Value="" />
+      <DVALUE Name="XMLTemplateName" Value="" />
+      <DVALUE Name="XMLAddDesData" Value="1" />
+      <DVALUE Name="AutoSavePromptingInfo" Value="0" />
+      <DVALUE Name="m_ShowProjectInfoDlg" Value="0" />
+    </DFOLDER>
+  </DTABLEITEM>
+  <DTABLEITEM Name="SYBOX - Kongsberg XL44 (Full)">
+    <DFOLDER Name="Device">
+      <DVALUE Name="OutputType" Value="4" />
+      <DVALUE Name="SeparatePartialCuts" Value="0" />
+      <DVALUE Name="WindowsDriver" Value="0" />
+      <DVALUE Name="PrinterName" Value="" />
+      <DVALUE Name="DeviceName" Value="" />
+      <DVALUE Name="DeviceType" Value="1" />
+      <DVALUE Name="TuneFile" Value="" />
+      <DVALUE Name="CamTuneFileDesc" Value="" />
+      <DVALUE Name="CamDriverName" Value="" />
+      <DVALUE Name="PaperOrientation" Value="0" />
+      <DVALUE Name="NumCopies" Value="1" />
+      <DVALUE Name="SpecifyScale" Value="1" />
+      <DVALUE Name="Scale" Value="3f800000" />
+      <DVALUE Name="UseStretch" Value="0" />
+      <DVALUE Name="YScale" Value="3f800000" />
+      <DVALUE Name="CamDriverOptions" Value="" />
+      <DVALUE Name="ShowCmdForDebug" Value="0" />
+      <DVALUE Name="UseOutputCmdFile" Value="0" />
+      <DVALUE Name="OutputCmdFile" Value="" />
+      <DVALUE Name="ShownInOutput" Value="1" />
+      <DVALUE Name="ShownInExport" Value="0" />
+      <DVALUE Name="ShownInSend" Value="0" />
+      <DVALUE Name="ShownInBatch" Value="0" />
+      <DVALUE Name="ShownInWebCenter" Value="0" />
+      <DVALUE Name="ShownIn3D" Value="0" />
+      <DVALUE Name="ShownInProjectBOM" Value="0" />
+      <DVALUE Name="ShownInBrowser" Value="0" />
+      <DVALUE Name="ShownInCanvasBOM" Value="0" />
+      <DVALUE Name="BitmapFormat" Value="0" />
+      <DVALUE Name="BitmapRemoveWhiteSpace" Value="1" />
+      <DVALUE Name="BitmapJPEGQuality" Value="50" />
+      <DVALUE Name="BitmapBorder" Value="3" />
+      <DVALUE Name="BitmapSizeX" Value="64" />
+      <DVALUE Name="BitmapSizeY" Value="64" />
+      <DVALUE Name="HighGraphics" Value="e4e1c0" />
+      <DVALUE Name="OutputLayerName" Value="" />
+      <DVALUE Name="AutoOverwriteLayer" Value="1" />
+      <DVALUE Name="BitmapName" Value="custom_output.bmp" />
+      <DVALUE Name="VirtKey" Value="0" />
+      <DVALUE Name="ShortCut" Value="0" />
+      <DVALUE Name="AutoPreview" Value="0" />
+      <DVALUE Name="DefLayoutType" Value="0" />
+      <DVALUE Name="DefWindowSize" Value="0" />
+      <DVALUE Name="UNCDataSetName" Value="" />
+      <DVALUE Name="InfoFilterScaleExpr" Value="1.0" />
+      <DVALUE Name="InfoFilterYScaleExpr" Value="1.0" />
+    </DFOLDER>
+    <DFOLDER Name="Position">
+      <DVALUE Name="PrintRotation" Value="0" />
+      <DVALUE Name="PrintMirror" Value="0" />
+      <DVALUE Name="PrintPosition" Value="4" />
+      <DVALUE Name="OffsetX" Value="0" />
+      <DVALUE Name="OffsetY" Value="0" />
+      <DVALUE Name="PrintSide" Value="2" />
+      <DVALUE Name="FPos_XOff" Value="0" />
+      <DVALUE Name="FPos_YOff" Value="0" />
+      <DVALUE Name="FPos_Just" Value="4" />
+      <DVALUE Name="FPos_Type" Value="ffffffff" />
+      <DFOLDER Name="Paper Size">
+        <DVALUE Name="Height" Value="438bb333" />
+        <DVALUE Name="Width" Value="4357e666" />
+        <DVALUE Name="StartX" Value="0" />
+        <DVALUE Name="StartY" Value="0" />
+      </DFOLDER>
+      <DFOLDER Name="Margins">
+        <DVALUE Name="Left" Value="0" />
+        <DVALUE Name="Right" Value="0" />
+        <DVALUE Name="Top" Value="0" />
+        <DVALUE Name="Bottom" Value="0" />
+      </DFOLDER>
+      <DFOLDER Name="Windows Driver Pos">
+        <DVALUE Name="Left" Value="3f000000" />
+        <DVALUE Name="Right" Value="3f000000" />
+        <DVALUE Name="Top" Value="3f000000" />
+        <DVALUE Name="Bottom" Value="3f000000" />
+        <DVALUE Name="StartX" Value="0" />
+        <DVALUE Name="StartY" Value="0" />
+      </DFOLDER>
+    </DFOLDER>
+    <DFOLDER Name="Forms">
+      <DVALUE Name="UseForm" Value="0" />
+      <DVALUE Name="Name" Value="" />
+      <DVALUE Name="UseU3D" Value="0" />
+      <DVALUE Name="UseBlkGridPages" Value="0" />
+    </DFOLDER>
+    <DFOLDER Name="Sample Making">
+      <DFOLDER Name="Line Types">
+        <DVALUE Name="LineType0" Value="9" />
+        <DVALUE Name="LineType1" Value="9" />
+        <DVALUE Name="LineType2" Value="a" />
+        <DVALUE Name="LineType3" Value="a" />
+        <DVALUE Name="LineType4" Value="a" />
+        <DVALUE Name="LineType5" Value="2" />
+        <DVALUE Name="LineType6" Value="a" />
+        <DVALUE Name="LineType7" Value="1" />
+        <DVALUE Name="LineType8" Value="3" />
+        <DVALUE Name="LineType9" Value="9" />
+        <DVALUE Name="LineType10" Value="9" />
+        <DVALUE Name="LineType11" Value="4" />
+        <DVALUE Name="LineType12" Value="4" />
+        <DVALUE Name="LineType13" Value="4" />
+        <DVALUE Name="LineType14" Value="b" />
+        <DVALUE Name="LineType15" Value="c" />
+        <DVALUE Name="LineType16" Value="0" />
+        <DVALUE Name="LineType17" Value="a" />
+        <DVALUE Name="LineType18" Value="a" />
+        <DVALUE Name="LineType19" Value="9" />
+        <DVALUE Name="LineType20" Value="9" />
+        <DVALUE Name="LineType21" Value="9" />
+        <DVALUE Name="LineType22" Value="a" />
+        <DVALUE Name="LineType23" Value="a" />
+        <DVALUE Name="LineType24" Value="a" />
+        <DVALUE Name="LineType25" Value="a" />
+        <DVALUE Name="LineType26" Value="4" />
+        <DVALUE Name="UsePlotterFont" Value="1" />
+        <DVALUE Name="PerfCutBack" Value="0" />
+        <DVALUE Name="GPerfCutLen" Value="40c00000" />
+        <DVALUE Name="GPerfGapLen" Value="40c00000" />
+        <DVALUE Name="GCCCutLen" Value="40c00000" />
+        <DVALUE Name="GCCCreaseLen" Value="40c00000" />
+        <DVALUE Name="GGlueAssistCutLen" Value="40c00000" />
+        <DVALUE Name="GGlueAssistGapLen" Value="40c00000" />
+        <DVALUE Name="GPerfInChannelCutLen" Value="40c00000" />
+        <DVALUE Name="GPerfInChannelGapLen" Value="40c00000" />
+        <DVALUE Name="GPartCutCreaseCutLen" Value="40c00000" />
+        <DVALUE Name="GPartCutCreaseGapLen" Value="40c00000" />
+        <DVALUE Name="MakeNicks" Value="0" />
+        <DVALUE Name="AdjustOverCut" Value="40186666" />
+        <DVALUE Name="Caliper" Value="0" />
+        <DVALUE Name="CutStrippingRules" Value="0" />
+        <DVALUE Name="DrillDiam" Value="0" />
+      </DFOLDER>
+      <DFOLDER Name="Sequencing">
+        <DVALUE Name="RoundSlotMethod" Value="1" />
+        <DVALUE Name="TearDist" Value="41000419" />
+        <DVALUE Name="TearAngle" Value="42700000" />
+        <DVALUE Name="OvercutMethod" Value="0" />
+        <DVALUE Name="SplitLines" Value="0" />
+        <DVALUE Name="CutOvercrease" Value="414b3333" />
+        <DVALUE Name="GapOvercrease" Value="40400000" />
+        <DVALUE Name="RoundCorners" Value="0" />
+        <DVALUE Name="Radius" Value="3fcb3333" />
+        <DVALUE Name="MinLength" Value="424b3333" />
+        <DVALUE Name="GapFuzz" Value="3e820c4a" />
+        <DVALUE Name="SlotParam" Value="3fa28f5c" />
+        <DVALUE Name="TangTol" Value="41c80000" />
+      </DFOLDER>
+      <DFOLDER Name="Creases">
+        <DVALUE Name="CreaseCutBack" Value="40000000" />
+        <DVALUE Name="DoublePass" Value="0" />
+        <DVALUE Name="noDoubleLines" Value="0" />
+        <DVALUE Name="FixedOffsetOn" Value="0" />
+        <DVALUE Name="FixedOffset" Value="0" />
+        <DVALUE Name="MultOfCalOn" Value="0" />
+        <DVALUE Name="MultOfCal" Value="0" />
+        <DVALUE Name="PointageOn" Value="0" />
+        <DVALUE Name="Pointage" Value="3f361134" />
+        <DVALUE Name="Pointage2" Value="3f361134" />
+        <DVALUE Name="RevDoublePass" Value="0" />
+        <DVALUE Name="SecondCrease" Value="0" />
+        <DVALUE Name="SecondThickCrease" Value="0" />
+      </DFOLDER>
+      <DFOLDER Name="Counter">
+        <DVALUE Name="CreaseType" Value="0" />
+        <DVALUE Name="GrainPFactor" Value="3f800000" />
+        <DVALUE Name="GrainCALFactor" Value="40000000" />
+        <DVALUE Name="GrainWidth" Value="0" />
+        <DVALUE Name="CrossGrainPFactor" Value="3f800000" />
+        <DVALUE Name="CrossGrainCALFactor" Value="40000000" />
+        <DVALUE Name="CrossGrainWidth" Value="3dd013a9" />
+        <DVALUE Name="CounterCutBack" Value="3f820c4a" />
+        <DVALUE Name="ChannelAngle" Value="42480000" />
+        <DVALUE Name="RouterWidth" Value="3fa28f5c" />
+        <DVALUE Name="SecondRouter" Value="0" />
+        <DVALUE Name="SecondRouterWidth" Value="3faf9097" />
+        <DVALUE Name="CreaseType1" Value="0" />
+        <DVALUE Name="GrainPFactor1" Value="3f800000" />
+        <DVALUE Name="GrainCALFactor1" Value="40000000" />
+        <DVALUE Name="GrainWidth1" Value="0" />
+        <DVALUE Name="CrossGrainPFactor1" Value="3f800000" />
+        <DVALUE Name="CrossGrainCALFactor1" Value="40000000" />
+        <DVALUE Name="CrossGrainWidth1" Value="3dd013a9" />
+        <DVALUE Name="CounterCutBack1" Value="3f820c4a" />
+        <DVALUE Name="ChannelAngle1" Value="42480000" />
+        <DVALUE Name="RouterWidth1" Value="3fa28f5c" />
+        <DVALUE Name="SecondRouter1" Value="0" />
+        <DVALUE Name="SecondRouterWidth1" Value="3faf9097" />
+        <DVALUE Name="CreaseType2" Value="0" />
+        <DVALUE Name="GrainPFactor2" Value="3f800000" />
+        <DVALUE Name="GrainCALFactor2" Value="40000000" />
+        <DVALUE Name="GrainWidth2" Value="0" />
+        <DVALUE Name="CrossGrainPFactor2" Value="3f800000" />
+        <DVALUE Name="CrossGrainCALFactor2" Value="40000000" />
+        <DVALUE Name="CrossGrainWidth2" Value="3dd013a9" />
+        <DVALUE Name="CounterCutBack2" Value="3f820c4a" />
+        <DVALUE Name="ChannelAngle2" Value="42480000" />
+        <DVALUE Name="RouterWidth2" Value="3fa28f5c" />
+        <DVALUE Name="SecondRouter2" Value="0" />
+        <DVALUE Name="SecondRouterWidth2" Value="3faf9097" />
+        <DVALUE Name="GrainAngleTol" Value="41700000" />
+      </DFOLDER>
+    </DFOLDER>
+    <DFOLDER Name="Directories">
+      <DVALUE Name="DestinationType" Value="1" />
+      <DVALUE Name="OutputToFile" Value="0" />
+      <DVALUE Name="MakeDOSCompatible" Value="0" />
+      <DVALUE Name="StripOption" Value="0" />
+      <DVALUE Name="AutoOverwrite" Value="0" />
+      <DVALUE Name="SkipSaveAsDlg" Value="0" />
+      <DVALUE Name="SkipOutputDlg" Value="0" />
+      <DVALUE Name="PromptForProjectDoc" Value="1" />
+      <DVALUE Name="FixedProjectName" Value="0" />
+      <DVALUE Name="ProjectNameUseLibFnction" Value="0" />
+      <DVALUE Name="ProjectName" Value="" />
+      <DVALUE Name="AutoCreateProject" Value="1" />
+      <DVALUE Name="FixedProjectTemplate" Value="0" />
+      <DVALUE Name="ProjectTemplateUseLibFnction" Value="0" />
+      <DVALUE Name="ProjectTemplate" Value="" />
+      <DFOLDER Name="Counter">
+        <DVALUE Name="Extension" Value="" />
+        <DVALUE Name="Directory" Value="" />
+        <DVALUE Name="FixedFileName" Value="0" />
+        <DVALUE Name="FromCmdFile" Value="0" />
+        <DVALUE Name="DirFromCmdFile" Value="0" />
+        <DVALUE Name="ProjectFolderOption" Value="0" />
+        <DVALUE Name="ProjectFolderName" Value="" />
+        <DVALUE Name="ProjectFolderUseLibFnctn" Value="0" />
+        <DVALUE Name="VersionCommentOption" Value="0" />
+        <DVALUE Name="VersionComment" Value="" />
+        <DVALUE Name="VersionCommentUseLibFnctn" Value="0" />
+      </DFOLDER>
+      <DFOLDER Name="PartialCuts">
+        <DVALUE Name="Extension" Value="" />
+        <DVALUE Name="Directory" Value="" />
+        <DVALUE Name="FixedFileName" Value="0" />
+        <DVALUE Name="FromCmdFile" Value="0" />
+        <DVALUE Name="DirFromCmdFile" Value="0" />
+        <DVALUE Name="ProjectFolderOption" Value="0" />
+        <DVALUE Name="ProjectFolderName" Value="" />
+        <DVALUE Name="ProjectFolderUseLibFnctn" Value="0" />
+        <DVALUE Name="VersionCommentOption" Value="0" />
+        <DVALUE Name="VersionComment" Value="" />
+        <DVALUE Name="VersionCommentUseLibFnctn" Value="0" />
+      </DFOLDER>
+      <DFOLDER Name="MakeSample">
+        <DVALUE Name="Extension" Value="" />
+        <DVALUE Name="Directory" Value="" />
+        <DVALUE Name="FixedFileName" Value="0" />
+        <DVALUE Name="FromCmdFile" Value="0" />
+        <DVALUE Name="DirFromCmdFile" Value="0" />
+        <DVALUE Name="ProjectFolderOption" Value="0" />
+        <DVALUE Name="ProjectFolderName" Value="" />
+        <DVALUE Name="ProjectFolderUseLibFnctn" Value="0" />
+        <DVALUE Name="VersionCommentOption" Value="0" />
+        <DVALUE Name="VersionComment" Value="" />
+        <DVALUE Name="VersionCommentUseLibFnctn" Value="0" />
+      </DFOLDER>
+    </DFOLDER>
+    <DFOLDER Name="View">
+      <DVALUE Name="PrintStyle" Value="" />
+      <DVALUE Name="LayerSelSet" Value="0" />
+      <DVALUE Name="UserLayerList" Value="" />
+      <DVALUE Name="MfgPredLayerList" Value="" />
+      <DVALUE Name="RotDieViewLevel" Value="0" />
+      <DVALUE Name="AutoAdjustText" Value="0" />
+      <DVALUE Name="MinTextSize" Value="0" />
+      <DVALUE Name="MaxTextSize" Value="0" />
+      <DVALUE Name="RemoveExtLines" Value="0" />
+      <DVALUE Name="GenLeaderHoles" Value="0" />
+      <DVALUE Name="NoHolesInCorners" Value="0" />
+      <DVALUE Name="AdjustLeaderHolesOnBridges" Value="0" />
+      <DVALUE Name="LeaderHoleAllowReduction" Value="3ecb3333" />
+      <DVALUE Name="RuleLabels" Value="0" />
+      <DVALUE Name="FullBoardDepth" Value="41cb3333" />
+      <DVALUE Name="LeaderHoleNoHoleLen" Value="40cb3333" />
+      <DVALUE Name="LeaderHoleLeadInLen" Value="404b3333" />
+      <DVALUE Name="LeaderHoleOneHoleLen" Value="41186666" />
+      <DVALUE Name="LeaderHoleLongSawLen" Value="42fe0000" />
+      <DVALUE Name="ViewSelection" Value="2" />
+      <DVALUE Name="UseSelectionForReports" Value="0" />
+      <DFOLDER Name="Dimension Format Table">
+        <DVALUE Name="OverrideDimFormat" Value="0" />
+        <DVALUE Name="UnitType" Value="0" />
+        <DVALUE Name="InchFormatType" Value="D" />
+        <DVALUE Name="InchNumDP" Value="3" />
+        <DVALUE Name="MMNumDP" Value="3" />
+        <DVALUE Name="ShowTrailZeros" Value="1" />
+        <DVALUE Name="RoundDimVal" Value="0" />
+        <DVALUE Name="ConsistentDim" Value="0" />
+        <DVALUE Name="WarningRoundDim" Value="0" />
+      </DFOLDER>
+    </DFOLDER>
+    <DFOLDER Name="Print Sample">
+      <DVALUE Name="OutputToFile" Value="0" />
+      <DVALUE Name="DeviceName" Value="" />
+      <DVALUE Name="DeviceType" Value="1" />
+      <DVALUE Name="DriverName" Value="" />
+      <DVALUE Name="PlotCommand" Value="0" />
+      <DVALUE Name="DriverFound" Value="0" />
+      <DVALUE Name="TuneFile" Value="" />
+      <DVALUE Name="CamTuneFileDesc" Value="" />
+      <DVALUE Name="WindowsDriver" Value="0" />
+      <DVALUE Name="PrinterName" Value="" />
+      <DVALUE Name="PaperOrientation" Value="0" />
+      <DVALUE Name="NumCopies" Value="1" />
+      <DVALUE Name="CamDriverOptions" Value="" />
+      <DFOLDER Name="PrintSample">
+        <DVALUE Name="Extension" Value="" />
+        <DVALUE Name="Directory" Value="" />
+        <DVALUE Name="FixedFileName" Value="0" />
+        <DVALUE Name="FromCmdFile" Value="0" />
+        <DVALUE Name="DirFromCmdFile" Value="0" />
+        <DVALUE Name="ProjectFolderOption" Value="0" />
+        <DVALUE Name="ProjectFolderName" Value="" />
+        <DVALUE Name="ProjectFolderUseLibFnctn" Value="0" />
+        <DVALUE Name="VersionCommentOption" Value="0" />
+        <DVALUE Name="VersionComment" Value="" />
+        <DVALUE Name="VersionCommentUseLibFnctn" Value="0" />
+      </DFOLDER>
+      <DFOLDER Name="Margins">
+        <DVALUE Name="Left" Value="0" />
+        <DVALUE Name="Right" Value="0" />
+        <DVALUE Name="Top" Value="0" />
+        <DVALUE Name="Bottom" Value="0" />
+      </DFOLDER>
+    </DFOLDER>
+    <DFOLDER Name="Print Sample Position">
+      <DVALUE Name="PrintRotation" Value="0" />
+      <DVALUE Name="PrintMirror" Value="0" />
+      <DVALUE Name="PrintPosition" Value="4" />
+      <DVALUE Name="OffsetX" Value="0" />
+      <DVALUE Name="OffsetY" Value="0" />
+      <DVALUE Name="PrintSide" Value="2" />
+      <DVALUE Name="FPos_XOff" Value="0" />
+      <DVALUE Name="FPos_YOff" Value="0" />
+      <DVALUE Name="FPos_Just" Value="4" />
+      <DVALUE Name="FPos_Type" Value="ffffffff" />
+      <DFOLDER Name="Paper Size">
+        <DVALUE Name="Height" Value="438bb333" />
+        <DVALUE Name="Width" Value="4357e666" />
+        <DVALUE Name="StartX" Value="0" />
+        <DVALUE Name="StartY" Value="0" />
+      </DFOLDER>
+      <DFOLDER Name="Margins">
+        <DVALUE Name="Left" Value="0" />
+        <DVALUE Name="Right" Value="0" />
+        <DVALUE Name="Top" Value="0" />
+        <DVALUE Name="Bottom" Value="0" />
+      </DFOLDER>
+      <DFOLDER Name="Windows Driver Pos">
+        <DVALUE Name="Left" Value="3f000000" />
+        <DVALUE Name="Right" Value="3f000000" />
+        <DVALUE Name="Top" Value="3f000000" />
+        <DVALUE Name="Bottom" Value="3f000000" />
+        <DVALUE Name="StartX" Value="0" />
+        <DVALUE Name="StartY" Value="0" />
+      </DFOLDER>
+    </DFOLDER>
+    <DFOLDER Name="Optimization">
+      <DVALUE Name="OptimizeOption" Value="0" />
+      <DVALUE Name="ProcSpRuleOpt" Value="0" />
+      <DVALUE Name="ProcBridgeOpt" Value="ffffffff" />
+      <DVALUE Name="EnableSubroutinedOutput" Value="1" />
+      <DVALUE Name="UsePlotterFont" Value="3" />
+      <DVALUE Name="LaserTuningEntry" Value="" />
+      <DVALUE Name="LaserTuningKey" Value="" />
+      <DVALUE Name="IgnoreDieSplits" Value="0" />
+      <DVALUE Name="NickStyle" Value="" />
+      <DVALUE Name="NickGaps" Value="0" />
+      <DVALUE Name="UnderCutAtDieSplitsLen" Value="0" />
+      <DVALUE Name="UnderCutAtCreaseEndsLen" Value="0" />
+      <DVALUE Name="MinUnderCutLen" Value="414b3333" />
+      <DVALUE Name="SoftwareLineStyles" Value="0" />
+      <DVALUE Name="FillRubber" Value="1" />
+      <DVALUE Name="FillRubberColorOption" Value="0" />
+      <DVALUE Name="ShowRubberElemNum" Value="0" />
+      <DVALUE Name="ShowRubberElemNumItalic" Value="1" />
+      <DVALUE Name="ShowRubberElemNumSize" Value="42400000" />
+      <DVALUE Name="ShowBlkGridId" Value="0" />
+      <DVALUE Name="ShowBlkGridIdSize" Value="43480000" />
+      <DVALUE Name="CreaseCutbackInfoData" Value="0" />
+      <DVALUE Name="CreaseCutbackInfoSize" Value="43480000" />
+      <DVALUE Name="ZeroLengthLines" Value="0" />
+      <DVALUE Name="StrippingAreas" Value="0" />
+      <DVALUE Name="StationNumbers" Value="1" />
+      <DVALUE Name="WasteNumbers" Value="1" />
+    </DFOLDER>
+    <DFOLDER Name="KGB Link">
+      <DVALUE Name="AutoOpenKGBGui" Value="0" />
+      <DVALUE Name="PickKGBMaterialFile" Value="0" />
+      <DVALUE Name="KGBSourceOption" Value="0" />
+      <DVALUE Name="PickKGBMaterialFilePath" Value="" />
+      <DVALUE Name="IPCSystemName" Value="" />
+    </DFOLDER>
+    <DFOLDER Name="Tiling Data">
+      <DVALUE Name="RegMarkSize" Value="41cb3333" />
+      <DVALUE Name="TileOverlap" Value="0" />
+      <DVALUE Name="RegHoleSize" Value="40cb3333" />
+      <DVALUE Name="RegMarkOffset" Value="0" />
+      <DVALUE Name="UsingSampleCounter" Value="1" />
+      <DVALUE Name="TileFileExtString" Value="_" />
+      <DVALUE Name="TileFileExtGenOption" Value="0" />
+      <DVALUE Name="SkipEmptyTiles" Value="0" />
+      <DVALUE Name="PauseBetweenTiles" Value="0" />
+      <DVALUE Name="AllTilesOneFile" Value="0" />
+    </DFOLDER>
+    <DFOLDER Name="Information Filter">
+      <DVALUE Name="InfoType1" Value="1" />
+      <DVALUE Name="InfoType2" Value="1" />
+      <DVALUE Name="InfoType3" Value="1" />
+      <DVALUE Name="InfoType4" Value="1" />
+      <DVALUE Name="InfoType5" Value="1" />
+      <DVALUE Name="InfoType6" Value="1" />
+      <DVALUE Name="InfoType7" Value="1" />
+      <DVALUE Name="InfoType8" Value="1" />
+      <DVALUE Name="InfoType9" Value="1" />
+      <DVALUE Name="InfoType10" Value="1" />
+      <DVALUE Name="InfoType11" Value="1" />
+      <DVALUE Name="DesignLayer1" Value="1" />
+      <DVALUE Name="DesignLayer2" Value="1" />
+      <DVALUE Name="DesignLayer3" Value="1" />
+      <DVALUE Name="DesignLayer4" Value="1" />
+      <DVALUE Name="DesignLayer5" Value="1" />
+      <DVALUE Name="DesignLayer6" Value="1" />
+      <DVALUE Name="DesignLayer7" Value="1" />
+      <DVALUE Name="DesignLayer8" Value="1" />
+      <DVALUE Name="DesignLayer9" Value="1" />
+      <DVALUE Name="DesignLayer10" Value="1" />
+      <DVALUE Name="DesignLayer11" Value="1" />
+      <DVALUE Name="DesignLayer14" Value="1" />
+      <DVALUE Name="DesignLayer15" Value="1" />
+      <DVALUE Name="DesignLayer16" Value="1" />
+      <DVALUE Name="DesignLayer17" Value="1" />
+      <DVALUE Name="DesignLayer18" Value="1" />
+      <DVALUE Name="DesignLayer19" Value="1" />
+      <DVALUE Name="DesignLayer20" Value="1" />
+      <DVALUE Name="DesignLayer21" Value="1" />
+      <DVALUE Name="DesignLayer22" Value="1" />
+      <DVALUE Name="DesignLayer23" Value="1" />
+      <DVALUE Name="DesignLayer24" Value="1" />
+      <DVALUE Name="DesignLayer25" Value="1" />
+      <DVALUE Name="ManuLayer1" Value="1" />
+      <DVALUE Name="ManuLayer2" Value="1" />
+      <DVALUE Name="ManuLayer3" Value="1" />
+      <DVALUE Name="ManuLayer4" Value="1" />
+      <DVALUE Name="ManuLayer5" Value="1" />
+      <DVALUE Name="ManuLayer6" Value="1" />
+      <DVALUE Name="ManuLayer7" Value="1" />
+      <DVALUE Name="ManuLayer8" Value="1" />
+      <DVALUE Name="ArtiosCADFormat" Value="0" />
+      <DVALUE Name="EmbedDepFiles" Value="0" />
+    </DFOLDER>
+    <DFOLDER Name="Send to">
+      <DVALUE Name="UseEmail" Value="0" />
+      <DVALUE Name="PromptForMessage" Value="0" />
+      <DVALUE Name="InsertOption" Value="0" />
+      <DVALUE Name="DeleteOriginal" Value="1" />
+      <DVALUE Name="ToRecipient" Value="" />
+      <DVALUE Name="CcRecipient" Value="" />
+      <DVALUE Name="Subject" Value="" />
+    </DFOLDER>
+    <DFOLDER Name="Group">
+      <DVALUE Name="OutputList" Value="SYBOX - Kongsberg XL44;SYBOX - PDF AUTO same folder;SYBOX - DXF Launcher;" />
+      <DVALUE Name="OutputListData" Value="0 1 1 1;0 0 2 1;0 0 2 1;" />
+      <DVALUE Name="RunSave" Value="1" />
+      <DVALUE Name="RunSaveAs" Value="0" />
+      <DVALUE Name="GroupedOutputType" Value="0" />
+    </DFOLDER>
+    <DFOLDER Name="Advanced Data">
+      <DVALUE Name="UseOutputCmdFile" Value="0" />
+      <DVALUE Name="OutputCmdFile" Value="" />
+      <DVALUE Name="OutputCmdFileParams" Value="" />
+      <DVALUE Name="UseOutputPPCmdFile" Value="0" />
+      <DVALUE Name="OutputPPCmdFile" Value="" />
+      <DVALUE Name="UsePromptingReport" Value="0" />
+      <DVALUE Name="PromptingReportName" Value="" />
+      <DVALUE Name="RTDatSet" Value="" />
+      <DVALUE Name="LaunchExeOption" Value="0" />
+      <DVALUE Name="ExeToLaunch" Value="" />
+      <DVALUE Name="ExeBlockOption" Value="1" />
+      <DVALUE Name="ExeInputParamOption" Value="0" />
+      <DVALUE Name="ExeOutputParamOption" Value="0" />
+      <DVALUE Name="ExeAddParamFormula" Value="" />
+    </DFOLDER>
+    <DFOLDER Name="Counter parameter sets">
+      <DVALUE Name="WithGrainCreaseToolWidth" Value="3fd9999a" />
+      <DVALUE Name="WithGrainCreaseToolMultiPass" Value="1" />
+      <DVALUE Name="CrossGrainCreaseToolWidth" Value="3fe66666" />
+      <DVALUE Name="CrossGrainCreaseToolMultiPass" Value="1" />
+      <DVALUE Name="CreaseEndToolWidth" Value="3fa66666" />
+      <DVALUE Name="WithGrainSlotToolWidth" Value="3fd9999a" />
+      <DVALUE Name="WithGrainSlotToolMultiPass" Value="1" />
+      <DVALUE Name="CrossGrainSlotToolWidth" Value="3fe66666" />
+      <DVALUE Name="CrossGrainSlotToolMultiPass" Value="1" />
+      <DVALUE Name="MillingToolWidth" Value="3fa66666" />
+      <DVALUE Name="PosHolesToolWidth" Value="3fa66666" />
+      <DVALUE Name="PosHolesToolDiamAllowed" Value="1" />
+      <DVALUE Name="MillingDirection" Value="0" />
+      <DVALUE Name="MillingOverlap" Value="3dcccccd" />
+      <DVALUE Name="ToolOrderPosition0" Value="0" />
+      <DVALUE Name="ToolOrderPosition1" Value="1" />
+      <DVALUE Name="ToolOrderPosition2" Value="2" />
+      <DVALUE Name="ToolOrderPosition3" Value="3" />
+      <DVALUE Name="ToolOrderPosition4" Value="4" />
+      <DVALUE Name="ToolOrderPosition5" Value="5" />
+      <DVALUE Name="ToolOrderPosition6" Value="6" />
+      <DVALUE Name="ToolOrderPosition7" Value="7" />
+      <DVALUE Name="ToolOrderPosition8" Value="8" />
+      <DVALUE Name="ToolOrderPosition9" Value="9" />
+      <DVALUE Name="ToolOrderPosition10" Value="a" />
+      <DVALUE Name="CreaseMultiPass" Value="0" />
+    </DFOLDER>
+    <DFOLDER Name="Sequencing">
+      <DVALUE Name="Resequence" Value="1" />
+      <DVALUE Name="Start" Value="1" />
+      <DVALUE Name="Type" Value="1" />
+      <DVALUE Name="JoinOption" Value="0" />
+      <DVALUE Name="GapCutThrough" Value="414b3333" />
+    </DFOLDER>
+    <DFOLDER Name="Rubber Sheet Data">
+      <DVALUE Name="TileCodeSepString" Value="_" />
+      <DVALUE Name="TileCodeIndexSepString" Value="_" />
+      <DVALUE Name="TileCodeIndexOption" Value="0" />
+    </DFOLDER>
+    <DFOLDER Name="PDF Options">
+      <DVALUE Name="EnableOpenPswd" Value="0" />
+      <DVALUE Name="OpenPassword" Value="" />
+      <DVALUE Name="OpenEncrypted" Value="0" />
+      <DVALUE Name="EnableSecurityPerms" Value="0" />
+      <DVALUE Name="PrintingPermOption" Value="0" />
+      <DVALUE Name="ChangePermOption" Value="0" />
+      <DVALUE Name="EnableCopyText" Value="0" />
+      <DVALUE Name="EnableTextAccess" Value="0" />
+      <DVALUE Name="Encrypted" Value="0" />
+      <DVALUE Name="Password" Value="" />
+      <DVALUE Name="ImageCompression" Value="0" />
+    </DFOLDER>
+    <DFOLDER Name="U3D Options">
+      <DVALUE Name="UseViewSettings" Value="0" />
+      <DVALUE Name="UseWorkspaceBackground" Value="1" />
+      <DVALUE Name="CompressQuality" Value="50" />
+      <DVALUE Name="HighGraphics" Value="1" />
+      <DVALUE Name="CompressImageOption" Value="1" />
+      <DVALUE Name="BackgroundRed" Value="ff" />
+      <DVALUE Name="BackgroundGreen" Value="ff" />
+      <DVALUE Name="BackgroundBlue" Value="ff" />
+      <DVALUE Name="IncludeAnimations" Value="1" />
+    </DFOLDER>
+    <DFOLDER Name="BOM Options">
+      <DVALUE Name="DriverType" Value="0" />
+      <DVALUE Name="BOMReportTypes" Value="" />
+      <DVALUE Name="BOMReports" Value="" />
+      <DVALUE Name="XMLTemplateName" Value="" />
+      <DVALUE Name="XMLAddDesData" Value="1" />
+      <DVALUE Name="AutoSavePromptingInfo" Value="0" />
+      <DVALUE Name="m_ShowProjectInfoDlg" Value="0" />
+    </DFOLDER>
+  </DTABLEITEM>
+  <DTABLEITEM Name="SYBOX - DXF Launcher">
+    <DFOLDER Name="Device">
+      <DVALUE Name="OutputType" Value="3" />
+      <DVALUE Name="SeparatePartialCuts" Value="0" />
+      <DVALUE Name="WindowsDriver" Value="0" />
+      <DVALUE Name="PrinterName" Value="" />
+      <DVALUE Name="DeviceName" Value="" />
+      <DVALUE Name="DeviceType" Value="1" />
+      <DVALUE Name="TuneFile" Value="" />
+      <DVALUE Name="CamTuneFileDesc" Value="" />
+      <DVALUE Name="CamDriverName" Value="" />
+      <DVALUE Name="PaperOrientation" Value="0" />
+      <DVALUE Name="NumCopies" Value="1" />
+      <DVALUE Name="SpecifyScale" Value="1" />
+      <DVALUE Name="Scale" Value="3f800000" />
+      <DVALUE Name="UseStretch" Value="0" />
+      <DVALUE Name="YScale" Value="3f800000" />
+      <DVALUE Name="CamDriverOptions" Value="" />
+      <DVALUE Name="ShowCmdForDebug" Value="0" />
+      <DVALUE Name="UseOutputCmdFile" Value="0" />
+      <DVALUE Name="OutputCmdFile" Value="" />
+      <DVALUE Name="ShownInOutput" Value="1" />
+      <DVALUE Name="ShownInExport" Value="0" />
+      <DVALUE Name="ShownInSend" Value="0" />
+      <DVALUE Name="ShownInBatch" Value="0" />
+      <DVALUE Name="ShownInWebCenter" Value="0" />
+      <DVALUE Name="ShownIn3D" Value="0" />
+      <DVALUE Name="ShownInProjectBOM" Value="0" />
+      <DVALUE Name="ShownInBrowser" Value="0" />
+      <DVALUE Name="ShownInCanvasBOM" Value="0" />
+      <DVALUE Name="BitmapFormat" Value="0" />
+      <DVALUE Name="BitmapRemoveWhiteSpace" Value="1" />
+      <DVALUE Name="BitmapJPEGQuality" Value="50" />
+      <DVALUE Name="BitmapBorder" Value="3" />
+      <DVALUE Name="BitmapSizeX" Value="64" />
+      <DVALUE Name="BitmapSizeY" Value="64" />
+      <DVALUE Name="HighGraphics" Value="e4e1c0" />
+      <DVALUE Name="OutputLayerName" Value="" />
+      <DVALUE Name="AutoOverwriteLayer" Value="1" />
+      <DVALUE Name="BitmapName" Value="custom_output.bmp" />
+      <DVALUE Name="VirtKey" Value="0" />
+      <DVALUE Name="ShortCut" Value="0" />
+      <DVALUE Name="AutoPreview" Value="0" />
+      <DVALUE Name="DefLayoutType" Value="0" />
+      <DVALUE Name="DefWindowSize" Value="0" />
+      <DVALUE Name="UNCDataSetName" Value="" />
+      <DVALUE Name="InfoFilterScaleExpr" Value="1.0" />
+      <DVALUE Name="InfoFilterYScaleExpr" Value="1.0" />
+    </DFOLDER>
+    <DFOLDER Name="Position">
+      <DVALUE Name="PrintRotation" Value="0" />
+      <DVALUE Name="PrintMirror" Value="0" />
+      <DVALUE Name="PrintPosition" Value="4" />
+      <DVALUE Name="OffsetX" Value="0" />
+      <DVALUE Name="OffsetY" Value="0" />
+      <DVALUE Name="PrintSide" Value="2" />
+      <DVALUE Name="FPos_XOff" Value="0" />
+      <DVALUE Name="FPos_YOff" Value="0" />
+      <DVALUE Name="FPos_Just" Value="4" />
+      <DVALUE Name="FPos_Type" Value="ffffffff" />
+      <DFOLDER Name="Paper Size">
+        <DVALUE Name="Height" Value="438bb333" />
+        <DVALUE Name="Width" Value="4357e666" />
+        <DVALUE Name="StartX" Value="0" />
+        <DVALUE Name="StartY" Value="0" />
+      </DFOLDER>
+      <DFOLDER Name="Margins">
+        <DVALUE Name="Left" Value="0" />
+        <DVALUE Name="Right" Value="0" />
+        <DVALUE Name="Top" Value="0" />
+        <DVALUE Name="Bottom" Value="0" />
+      </DFOLDER>
+      <DFOLDER Name="Windows Driver Pos">
+        <DVALUE Name="Left" Value="3f000000" />
+        <DVALUE Name="Right" Value="3f000000" />
+        <DVALUE Name="Top" Value="3f000000" />
+        <DVALUE Name="Bottom" Value="3f000000" />
+        <DVALUE Name="StartX" Value="0" />
+        <DVALUE Name="StartY" Value="0" />
+      </DFOLDER>
+    </DFOLDER>
+    <DFOLDER Name="Forms">
+      <DVALUE Name="UseForm" Value="0" />
+      <DVALUE Name="Name" Value="" />
+      <DVALUE Name="UseU3D" Value="0" />
+      <DVALUE Name="UseBlkGridPages" Value="0" />
+    </DFOLDER>
+    <DFOLDER Name="Sample Making">
+      <DFOLDER Name="Line Types">
+        <DVALUE Name="LineType0" Value="9" />
+        <DVALUE Name="LineType1" Value="9" />
+        <DVALUE Name="LineType2" Value="a" />
+        <DVALUE Name="LineType3" Value="a" />
+        <DVALUE Name="LineType4" Value="a" />
+        <DVALUE Name="LineType5" Value="2" />
+        <DVALUE Name="LineType6" Value="a" />
+        <DVALUE Name="LineType7" Value="1" />
+        <DVALUE Name="LineType8" Value="3" />
+        <DVALUE Name="LineType9" Value="9" />
+        <DVALUE Name="LineType10" Value="9" />
+        <DVALUE Name="LineType11" Value="4" />
+        <DVALUE Name="LineType12" Value="4" />
+        <DVALUE Name="LineType13" Value="4" />
+        <DVALUE Name="LineType14" Value="b" />
+        <DVALUE Name="LineType15" Value="c" />
+        <DVALUE Name="LineType16" Value="0" />
+        <DVALUE Name="LineType17" Value="a" />
+        <DVALUE Name="LineType18" Value="a" />
+        <DVALUE Name="LineType19" Value="9" />
+        <DVALUE Name="LineType20" Value="9" />
+        <DVALUE Name="LineType21" Value="9" />
+        <DVALUE Name="LineType22" Value="a" />
+        <DVALUE Name="LineType23" Value="a" />
+        <DVALUE Name="LineType24" Value="a" />
+        <DVALUE Name="LineType25" Value="a" />
+        <DVALUE Name="LineType26" Value="4" />
+        <DVALUE Name="UsePlotterFont" Value="1" />
+        <DVALUE Name="PerfCutBack" Value="0" />
+        <DVALUE Name="GPerfCutLen" Value="40c00000" />
+        <DVALUE Name="GPerfGapLen" Value="40c00000" />
+        <DVALUE Name="GCCCutLen" Value="40c00000" />
+        <DVALUE Name="GCCCreaseLen" Value="40c00000" />
+        <DVALUE Name="GGlueAssistCutLen" Value="40c00000" />
+        <DVALUE Name="GGlueAssistGapLen" Value="40c00000" />
+        <DVALUE Name="GPerfInChannelCutLen" Value="40c00000" />
+        <DVALUE Name="GPerfInChannelGapLen" Value="40c00000" />
+        <DVALUE Name="GPartCutCreaseCutLen" Value="40c00000" />
+        <DVALUE Name="GPartCutCreaseGapLen" Value="40c00000" />
+        <DVALUE Name="MakeNicks" Value="0" />
+        <DVALUE Name="AdjustOverCut" Value="40186666" />
+        <DVALUE Name="Caliper" Value="0" />
+        <DVALUE Name="CutStrippingRules" Value="0" />
+        <DVALUE Name="DrillDiam" Value="0" />
+      </DFOLDER>
+      <DFOLDER Name="Sequencing">
+        <DVALUE Name="RoundSlotMethod" Value="1" />
+        <DVALUE Name="TearDist" Value="41000419" />
+        <DVALUE Name="TearAngle" Value="42700000" />
+        <DVALUE Name="OvercutMethod" Value="0" />
+        <DVALUE Name="SplitLines" Value="0" />
+        <DVALUE Name="CutOvercrease" Value="414b3333" />
+        <DVALUE Name="GapOvercrease" Value="40400000" />
+        <DVALUE Name="RoundCorners" Value="0" />
+        <DVALUE Name="Radius" Value="3fcb3333" />
+        <DVALUE Name="MinLength" Value="424b3333" />
+        <DVALUE Name="GapFuzz" Value="3e820c4a" />
+        <DVALUE Name="SlotParam" Value="3fa28f5c" />
+        <DVALUE Name="TangTol" Value="41c80000" />
+      </DFOLDER>
+      <DFOLDER Name="Creases">
+        <DVALUE Name="CreaseCutBack" Value="40000000" />
+        <DVALUE Name="DoublePass" Value="0" />
+        <DVALUE Name="noDoubleLines" Value="0" />
+        <DVALUE Name="FixedOffsetOn" Value="0" />
+        <DVALUE Name="FixedOffset" Value="0" />
+        <DVALUE Name="MultOfCalOn" Value="0" />
+        <DVALUE Name="MultOfCal" Value="0" />
+        <DVALUE Name="PointageOn" Value="0" />
+        <DVALUE Name="Pointage" Value="3f361134" />
+        <DVALUE Name="Pointage2" Value="3f361134" />
+        <DVALUE Name="RevDoublePass" Value="0" />
+        <DVALUE Name="SecondCrease" Value="0" />
+        <DVALUE Name="SecondThickCrease" Value="0" />
+      </DFOLDER>
+      <DFOLDER Name="Counter">
+        <DVALUE Name="CreaseType" Value="0" />
+        <DVALUE Name="GrainPFactor" Value="3f800000" />
+        <DVALUE Name="GrainCALFactor" Value="40000000" />
+        <DVALUE Name="GrainWidth" Value="0" />
+        <DVALUE Name="CrossGrainPFactor" Value="3f800000" />
+        <DVALUE Name="CrossGrainCALFactor" Value="40000000" />
+        <DVALUE Name="CrossGrainWidth" Value="3dd013a9" />
+        <DVALUE Name="CounterCutBack" Value="3f820c4a" />
+        <DVALUE Name="ChannelAngle" Value="42480000" />
+        <DVALUE Name="RouterWidth" Value="3fa28f5c" />
+        <DVALUE Name="SecondRouter" Value="0" />
+        <DVALUE Name="SecondRouterWidth" Value="3faf9097" />
+        <DVALUE Name="CreaseType1" Value="0" />
+        <DVALUE Name="GrainPFactor1" Value="3f800000" />
+        <DVALUE Name="GrainCALFactor1" Value="40000000" />
+        <DVALUE Name="GrainWidth1" Value="0" />
+        <DVALUE Name="CrossGrainPFactor1" Value="3f800000" />
+        <DVALUE Name="CrossGrainCALFactor1" Value="40000000" />
+        <DVALUE Name="CrossGrainWidth1" Value="3dd013a9" />
+        <DVALUE Name="CounterCutBack1" Value="3f820c4a" />
+        <DVALUE Name="ChannelAngle1" Value="42480000" />
+        <DVALUE Name="RouterWidth1" Value="3fa28f5c" />
+        <DVALUE Name="SecondRouter1" Value="0" />
+        <DVALUE Name="SecondRouterWidth1" Value="3faf9097" />
+        <DVALUE Name="CreaseType2" Value="0" />
+        <DVALUE Name="GrainPFactor2" Value="3f800000" />
+        <DVALUE Name="GrainCALFactor2" Value="40000000" />
+        <DVALUE Name="GrainWidth2" Value="0" />
+        <DVALUE Name="CrossGrainPFactor2" Value="3f800000" />
+        <DVALUE Name="CrossGrainCALFactor2" Value="40000000" />
+        <DVALUE Name="CrossGrainWidth2" Value="3dd013a9" />
+        <DVALUE Name="CounterCutBack2" Value="3f820c4a" />
+        <DVALUE Name="ChannelAngle2" Value="42480000" />
+        <DVALUE Name="RouterWidth2" Value="3fa28f5c" />
+        <DVALUE Name="SecondRouter2" Value="0" />
+        <DVALUE Name="SecondRouterWidth2" Value="3faf9097" />
+        <DVALUE Name="GrainAngleTol" Value="41700000" />
+      </DFOLDER>
+    </DFOLDER>
+    <DFOLDER Name="Directories">
+      <DVALUE Name="DestinationType" Value="1" />
+      <DVALUE Name="OutputToFile" Value="0" />
+      <DVALUE Name="MakeDOSCompatible" Value="0" />
+      <DVALUE Name="StripOption" Value="0" />
+      <DVALUE Name="AutoOverwrite" Value="1" />
+      <DVALUE Name="SkipSaveAsDlg" Value="1" />
+      <DVALUE Name="SkipOutputDlg" Value="0" />
+      <DVALUE Name="PromptForProjectDoc" Value="1" />
+      <DVALUE Name="FixedProjectName" Value="0" />
+      <DVALUE Name="ProjectNameUseLibFnction" Value="0" />
+      <DVALUE Name="ProjectName" Value="" />
+      <DVALUE Name="AutoCreateProject" Value="1" />
+      <DVALUE Name="FixedProjectTemplate" Value="0" />
+      <DVALUE Name="ProjectTemplateUseLibFnction" Value="0" />
+      <DVALUE Name="ProjectTemplate" Value="" />
+      <DFOLDER Name="Counter">
+        <DVALUE Name="Extension" Value="" />
+        <DVALUE Name="Directory" Value="{{ACMDIR}}" />
+        <DVALUE Name="FixedFileName" Value="0" />
+        <DVALUE Name="FromCmdFile" Value="0" />
+        <DVALUE Name="DirFromCmdFile" Value="0" />
+        <DVALUE Name="ProjectFolderOption" Value="0" />
+        <DVALUE Name="ProjectFolderName" Value="" />
+        <DVALUE Name="ProjectFolderUseLibFnctn" Value="0" />
+        <DVALUE Name="VersionCommentOption" Value="0" />
+        <DVALUE Name="VersionComment" Value="" />
+        <DVALUE Name="VersionCommentUseLibFnctn" Value="0" />
+      </DFOLDER>
+      <DFOLDER Name="PartialCuts">
+        <DVALUE Name="Extension" Value="" />
+        <DVALUE Name="Directory" Value="" />
+        <DVALUE Name="FixedFileName" Value="0" />
+        <DVALUE Name="FromCmdFile" Value="0" />
+        <DVALUE Name="DirFromCmdFile" Value="0" />
+        <DVALUE Name="ProjectFolderOption" Value="0" />
+        <DVALUE Name="ProjectFolderName" Value="" />
+        <DVALUE Name="ProjectFolderUseLibFnctn" Value="0" />
+        <DVALUE Name="VersionCommentOption" Value="0" />
+        <DVALUE Name="VersionComment" Value="" />
+        <DVALUE Name="VersionCommentUseLibFnctn" Value="0" />
+      </DFOLDER>
+      <DFOLDER Name="MakeSample">
+        <DVALUE Name="Extension" Value="" />
+        <DVALUE Name="Directory" Value="" />
+        <DVALUE Name="FixedFileName" Value="0" />
+        <DVALUE Name="FromCmdFile" Value="0" />
+        <DVALUE Name="DirFromCmdFile" Value="0" />
+        <DVALUE Name="ProjectFolderOption" Value="0" />
+        <DVALUE Name="ProjectFolderName" Value="" />
+        <DVALUE Name="ProjectFolderUseLibFnctn" Value="0" />
+        <DVALUE Name="VersionCommentOption" Value="0" />
+        <DVALUE Name="VersionComment" Value="" />
+        <DVALUE Name="VersionCommentUseLibFnctn" Value="0" />
+      </DFOLDER>
+    </DFOLDER>
+    <DFOLDER Name="View">
+      <DVALUE Name="PrintStyle" Value="" />
+      <DVALUE Name="LayerSelSet" Value="0" />
+      <DVALUE Name="UserLayerList" Value="" />
+      <DVALUE Name="MfgPredLayerList" Value="" />
+      <DVALUE Name="RotDieViewLevel" Value="0" />
+      <DVALUE Name="AutoAdjustText" Value="0" />
+      <DVALUE Name="MinTextSize" Value="0" />
+      <DVALUE Name="MaxTextSize" Value="0" />
+      <DVALUE Name="RemoveExtLines" Value="0" />
+      <DVALUE Name="GenLeaderHoles" Value="0" />
+      <DVALUE Name="NoHolesInCorners" Value="0" />
+      <DVALUE Name="AdjustLeaderHolesOnBridges" Value="0" />
+      <DVALUE Name="LeaderHoleAllowReduction" Value="3ecb3333" />
+      <DVALUE Name="RuleLabels" Value="0" />
+      <DVALUE Name="FullBoardDepth" Value="41cb3333" />
+      <DVALUE Name="LeaderHoleNoHoleLen" Value="40cb3333" />
+      <DVALUE Name="LeaderHoleLeadInLen" Value="404b3333" />
+      <DVALUE Name="LeaderHoleOneHoleLen" Value="41186666" />
+      <DVALUE Name="LeaderHoleLongSawLen" Value="42fe0000" />
+      <DVALUE Name="ViewSelection" Value="2" />
+      <DVALUE Name="UseSelectionForReports" Value="0" />
+      <DFOLDER Name="Dimension Format Table">
+        <DVALUE Name="OverrideDimFormat" Value="0" />
+        <DVALUE Name="UnitType" Value="0" />
+        <DVALUE Name="InchFormatType" Value="D" />
+        <DVALUE Name="InchNumDP" Value="3" />
+        <DVALUE Name="MMNumDP" Value="3" />
+        <DVALUE Name="ShowTrailZeros" Value="1" />
+        <DVALUE Name="RoundDimVal" Value="0" />
+        <DVALUE Name="ConsistentDim" Value="0" />
+        <DVALUE Name="WarningRoundDim" Value="0" />
+      </DFOLDER>
+    </DFOLDER>
+    <DFOLDER Name="Print Sample">
+      <DVALUE Name="OutputToFile" Value="0" />
+      <DVALUE Name="DeviceName" Value="" />
+      <DVALUE Name="DeviceType" Value="1" />
+      <DVALUE Name="DriverName" Value="" />
+      <DVALUE Name="PlotCommand" Value="0" />
+      <DVALUE Name="DriverFound" Value="0" />
+      <DVALUE Name="TuneFile" Value="" />
+      <DVALUE Name="CamTuneFileDesc" Value="" />
+      <DVALUE Name="WindowsDriver" Value="0" />
+      <DVALUE Name="PrinterName" Value="" />
+      <DVALUE Name="PaperOrientation" Value="0" />
+      <DVALUE Name="NumCopies" Value="1" />
+      <DVALUE Name="CamDriverOptions" Value="" />
+      <DFOLDER Name="PrintSample">
+        <DVALUE Name="Extension" Value="" />
+        <DVALUE Name="Directory" Value="" />
+        <DVALUE Name="FixedFileName" Value="0" />
+        <DVALUE Name="FromCmdFile" Value="0" />
+        <DVALUE Name="DirFromCmdFile" Value="0" />
+        <DVALUE Name="ProjectFolderOption" Value="0" />
+        <DVALUE Name="ProjectFolderName" Value="" />
+        <DVALUE Name="ProjectFolderUseLibFnctn" Value="0" />
+        <DVALUE Name="VersionCommentOption" Value="0" />
+        <DVALUE Name="VersionComment" Value="" />
+        <DVALUE Name="VersionCommentUseLibFnctn" Value="0" />
+      </DFOLDER>
+      <DFOLDER Name="Margins">
+        <DVALUE Name="Left" Value="0" />
+        <DVALUE Name="Right" Value="0" />
+        <DVALUE Name="Top" Value="0" />
+        <DVALUE Name="Bottom" Value="0" />
+      </DFOLDER>
+    </DFOLDER>
+    <DFOLDER Name="Print Sample Position">
+      <DVALUE Name="PrintRotation" Value="0" />
+      <DVALUE Name="PrintMirror" Value="0" />
+      <DVALUE Name="PrintPosition" Value="4" />
+      <DVALUE Name="OffsetX" Value="0" />
+      <DVALUE Name="OffsetY" Value="0" />
+      <DVALUE Name="PrintSide" Value="2" />
+      <DVALUE Name="FPos_XOff" Value="0" />
+      <DVALUE Name="FPos_YOff" Value="0" />
+      <DVALUE Name="FPos_Just" Value="4" />
+      <DVALUE Name="FPos_Type" Value="ffffffff" />
+      <DFOLDER Name="Paper Size">
+        <DVALUE Name="Height" Value="438bb333" />
+        <DVALUE Name="Width" Value="4357e666" />
+        <DVALUE Name="StartX" Value="0" />
+        <DVALUE Name="StartY" Value="0" />
+      </DFOLDER>
+      <DFOLDER Name="Margins">
+        <DVALUE Name="Left" Value="0" />
+        <DVALUE Name="Right" Value="0" />
+        <DVALUE Name="Top" Value="0" />
+        <DVALUE Name="Bottom" Value="0" />
+      </DFOLDER>
+      <DFOLDER Name="Windows Driver Pos">
+        <DVALUE Name="Left" Value="3f000000" />
+        <DVALUE Name="Right" Value="3f000000" />
+        <DVALUE Name="Top" Value="3f000000" />
+        <DVALUE Name="Bottom" Value="3f000000" />
+        <DVALUE Name="StartX" Value="0" />
+        <DVALUE Name="StartY" Value="0" />
+      </DFOLDER>
+    </DFOLDER>
+    <DFOLDER Name="Optimization">
+      <DVALUE Name="OptimizeOption" Value="0" />
+      <DVALUE Name="ProcSpRuleOpt" Value="0" />
+      <DVALUE Name="ProcBridgeOpt" Value="ffffffff" />
+      <DVALUE Name="EnableSubroutinedOutput" Value="1" />
+      <DVALUE Name="UsePlotterFont" Value="3" />
+      <DVALUE Name="LaserTuningEntry" Value="" />
+      <DVALUE Name="LaserTuningKey" Value="" />
+      <DVALUE Name="IgnoreDieSplits" Value="0" />
+      <DVALUE Name="NickStyle" Value="" />
+      <DVALUE Name="NickGaps" Value="0" />
+      <DVALUE Name="UnderCutAtDieSplitsLen" Value="0" />
+      <DVALUE Name="UnderCutAtCreaseEndsLen" Value="0" />
+      <DVALUE Name="MinUnderCutLen" Value="414b3333" />
+      <DVALUE Name="SoftwareLineStyles" Value="0" />
+      <DVALUE Name="FillRubber" Value="1" />
+      <DVALUE Name="FillRubberColorOption" Value="0" />
+      <DVALUE Name="ShowRubberElemNum" Value="0" />
+      <DVALUE Name="ShowRubberElemNumItalic" Value="1" />
+      <DVALUE Name="ShowRubberElemNumSize" Value="42400000" />
+      <DVALUE Name="ShowBlkGridId" Value="0" />
+      <DVALUE Name="ShowBlkGridIdSize" Value="43480000" />
+      <DVALUE Name="CreaseCutbackInfoData" Value="0" />
+      <DVALUE Name="CreaseCutbackInfoSize" Value="43480000" />
+      <DVALUE Name="ZeroLengthLines" Value="0" />
+      <DVALUE Name="StrippingAreas" Value="0" />
+      <DVALUE Name="StationNumbers" Value="1" />
+      <DVALUE Name="WasteNumbers" Value="1" />
+    </DFOLDER>
+    <DFOLDER Name="KGB Link">
+      <DVALUE Name="AutoOpenKGBGui" Value="0" />
+      <DVALUE Name="PickKGBMaterialFile" Value="0" />
+      <DVALUE Name="KGBSourceOption" Value="0" />
+      <DVALUE Name="PickKGBMaterialFilePath" Value="" />
+      <DVALUE Name="IPCSystemName" Value="" />
+    </DFOLDER>
+    <DFOLDER Name="Tiling Data">
+      <DVALUE Name="RegMarkSize" Value="41cb3333" />
+      <DVALUE Name="TileOverlap" Value="0" />
+      <DVALUE Name="RegHoleSize" Value="40cb3333" />
+      <DVALUE Name="RegMarkOffset" Value="0" />
+      <DVALUE Name="UsingSampleCounter" Value="1" />
+      <DVALUE Name="TileFileExtString" Value="_" />
+      <DVALUE Name="TileFileExtGenOption" Value="0" />
+      <DVALUE Name="SkipEmptyTiles" Value="0" />
+      <DVALUE Name="PauseBetweenTiles" Value="0" />
+      <DVALUE Name="AllTilesOneFile" Value="0" />
+    </DFOLDER>
+    <DFOLDER Name="Information Filter">
+      <DVALUE Name="InfoType1" Value="1" />
+      <DVALUE Name="InfoType2" Value="1" />
+      <DVALUE Name="InfoType3" Value="1" />
+      <DVALUE Name="InfoType4" Value="1" />
+      <DVALUE Name="InfoType5" Value="1" />
+      <DVALUE Name="InfoType6" Value="1" />
+      <DVALUE Name="InfoType7" Value="1" />
+      <DVALUE Name="InfoType8" Value="1" />
+      <DVALUE Name="InfoType9" Value="1" />
+      <DVALUE Name="InfoType10" Value="1" />
+      <DVALUE Name="InfoType11" Value="1" />
+      <DVALUE Name="DesignLayer1" Value="1" />
+      <DVALUE Name="DesignLayer2" Value="1" />
+      <DVALUE Name="DesignLayer3" Value="1" />
+      <DVALUE Name="DesignLayer4" Value="1" />
+      <DVALUE Name="DesignLayer5" Value="1" />
+      <DVALUE Name="DesignLayer6" Value="1" />
+      <DVALUE Name="DesignLayer7" Value="1" />
+      <DVALUE Name="DesignLayer8" Value="1" />
+      <DVALUE Name="DesignLayer9" Value="1" />
+      <DVALUE Name="DesignLayer10" Value="1" />
+      <DVALUE Name="DesignLayer11" Value="1" />
+      <DVALUE Name="DesignLayer14" Value="1" />
+      <DVALUE Name="DesignLayer15" Value="1" />
+      <DVALUE Name="DesignLayer16" Value="1" />
+      <DVALUE Name="DesignLayer17" Value="1" />
+      <DVALUE Name="DesignLayer18" Value="1" />
+      <DVALUE Name="DesignLayer19" Value="1" />
+      <DVALUE Name="DesignLayer20" Value="1" />
+      <DVALUE Name="DesignLayer21" Value="1" />
+      <DVALUE Name="DesignLayer22" Value="1" />
+      <DVALUE Name="DesignLayer23" Value="1" />
+      <DVALUE Name="DesignLayer24" Value="1" />
+      <DVALUE Name="DesignLayer25" Value="1" />
+      <DVALUE Name="ManuLayer1" Value="1" />
+      <DVALUE Name="ManuLayer2" Value="1" />
+      <DVALUE Name="ManuLayer3" Value="1" />
+      <DVALUE Name="ManuLayer4" Value="1" />
+      <DVALUE Name="ManuLayer5" Value="1" />
+      <DVALUE Name="ManuLayer6" Value="1" />
+      <DVALUE Name="ManuLayer7" Value="1" />
+      <DVALUE Name="ManuLayer8" Value="1" />
+      <DVALUE Name="ArtiosCADFormat" Value="0" />
+      <DVALUE Name="EmbedDepFiles" Value="0" />
+    </DFOLDER>
+    <DFOLDER Name="Send to">
+      <DVALUE Name="UseEmail" Value="0" />
+      <DVALUE Name="PromptForMessage" Value="0" />
+      <DVALUE Name="InsertOption" Value="0" />
+      <DVALUE Name="DeleteOriginal" Value="1" />
+      <DVALUE Name="ToRecipient" Value="" />
+      <DVALUE Name="CcRecipient" Value="" />
+      <DVALUE Name="Subject" Value="" />
+    </DFOLDER>
+    <DFOLDER Name="Group">
+      <DVALUE Name="OutputList" Value="" />
+      <DVALUE Name="OutputListData" Value="" />
+      <DVALUE Name="RunSave" Value="0" />
+      <DVALUE Name="RunSaveAs" Value="0" />
+      <DVALUE Name="GroupedOutputType" Value="0" />
+    </DFOLDER>
+    <DFOLDER Name="Advanced Data">
+      <DVALUE Name="UseOutputCmdFile" Value="0" />
+      <DVALUE Name="OutputCmdFile" Value="" />
+      <DVALUE Name="OutputCmdFileParams" Value="" />
+      <DVALUE Name="UseOutputPPCmdFile" Value="0" />
+      <DVALUE Name="OutputPPCmdFile" Value="" />
+      <DVALUE Name="UsePromptingReport" Value="0" />
+      <DVALUE Name="PromptingReportName" Value="" />
+      <DVALUE Name="RTDatSet" Value="" />
+      <DVALUE Name="LaunchExeOption" Value="1" />
+      <DVALUE Name="ExeToLaunch" Value="{{BRIDGE_EXE}}" />
+      <DVALUE Name="ExeBlockOption" Value="1" />
+      <DVALUE Name="ExeInputParamOption" Value="1" />
+      <DVALUE Name="ExeOutputParamOption" Value="0" />
+      <DVALUE Name="ExeAddParamFormula" Value="" />
+    </DFOLDER>
+    <DFOLDER Name="Counter parameter sets">
+      <DVALUE Name="WithGrainCreaseToolWidth" Value="3fd9999a" />
+      <DVALUE Name="WithGrainCreaseToolMultiPass" Value="1" />
+      <DVALUE Name="CrossGrainCreaseToolWidth" Value="3fe66666" />
+      <DVALUE Name="CrossGrainCreaseToolMultiPass" Value="1" />
+      <DVALUE Name="CreaseEndToolWidth" Value="3fa66666" />
+      <DVALUE Name="WithGrainSlotToolWidth" Value="3fd9999a" />
+      <DVALUE Name="WithGrainSlotToolMultiPass" Value="1" />
+      <DVALUE Name="CrossGrainSlotToolWidth" Value="3fe66666" />
+      <DVALUE Name="CrossGrainSlotToolMultiPass" Value="1" />
+      <DVALUE Name="MillingToolWidth" Value="3fa66666" />
+      <DVALUE Name="PosHolesToolWidth" Value="3fa66666" />
+      <DVALUE Name="PosHolesToolDiamAllowed" Value="1" />
+      <DVALUE Name="MillingDirection" Value="0" />
+      <DVALUE Name="MillingOverlap" Value="3dcccccd" />
+      <DVALUE Name="ToolOrderPosition0" Value="0" />
+      <DVALUE Name="ToolOrderPosition1" Value="1" />
+      <DVALUE Name="ToolOrderPosition2" Value="2" />
+      <DVALUE Name="ToolOrderPosition3" Value="3" />
+      <DVALUE Name="ToolOrderPosition4" Value="4" />
+      <DVALUE Name="ToolOrderPosition5" Value="5" />
+      <DVALUE Name="ToolOrderPosition6" Value="6" />
+      <DVALUE Name="ToolOrderPosition7" Value="7" />
+      <DVALUE Name="ToolOrderPosition8" Value="8" />
+      <DVALUE Name="ToolOrderPosition9" Value="9" />
+      <DVALUE Name="ToolOrderPosition10" Value="a" />
+      <DVALUE Name="CreaseMultiPass" Value="0" />
+    </DFOLDER>
+    <DFOLDER Name="Sequencing">
+      <DVALUE Name="Resequence" Value="1" />
+      <DVALUE Name="Start" Value="1" />
+      <DVALUE Name="Type" Value="1" />
+      <DVALUE Name="JoinOption" Value="0" />
+      <DVALUE Name="GapCutThrough" Value="414b3333" />
+    </DFOLDER>
+    <DFOLDER Name="Rubber Sheet Data">
+      <DVALUE Name="TileCodeSepString" Value="_" />
+      <DVALUE Name="TileCodeIndexSepString" Value="_" />
+      <DVALUE Name="TileCodeIndexOption" Value="0" />
+    </DFOLDER>
+    <DFOLDER Name="PDF Options">
+      <DVALUE Name="EnableOpenPswd" Value="0" />
+      <DVALUE Name="OpenPassword" Value="" />
+      <DVALUE Name="OpenEncrypted" Value="0" />
+      <DVALUE Name="EnableSecurityPerms" Value="0" />
+      <DVALUE Name="PrintingPermOption" Value="0" />
+      <DVALUE Name="ChangePermOption" Value="0" />
+      <DVALUE Name="EnableCopyText" Value="0" />
+      <DVALUE Name="EnableTextAccess" Value="0" />
+      <DVALUE Name="Encrypted" Value="0" />
+      <DVALUE Name="Password" Value="" />
+      <DVALUE Name="ImageCompression" Value="0" />
+    </DFOLDER>
+    <DFOLDER Name="U3D Options">
+      <DVALUE Name="UseViewSettings" Value="0" />
+      <DVALUE Name="UseWorkspaceBackground" Value="1" />
+      <DVALUE Name="CompressQuality" Value="50" />
+      <DVALUE Name="HighGraphics" Value="1" />
+      <DVALUE Name="CompressImageOption" Value="1" />
+      <DVALUE Name="BackgroundRed" Value="ff" />
+      <DVALUE Name="BackgroundGreen" Value="ff" />
+      <DVALUE Name="BackgroundBlue" Value="ff" />
+      <DVALUE Name="IncludeAnimations" Value="1" />
+    </DFOLDER>
+    <DFOLDER Name="BOM Options">
+      <DVALUE Name="DriverType" Value="0" />
+      <DVALUE Name="BOMReportTypes" Value="" />
+      <DVALUE Name="BOMReports" Value="" />
+      <DVALUE Name="XMLTemplateName" Value="" />
+      <DVALUE Name="XMLAddDesData" Value="1" />
+      <DVALUE Name="AutoSavePromptingInfo" Value="0" />
+      <DVALUE Name="m_ShowProjectInfoDlg" Value="0" />
+    </DFOLDER>
+  </DTABLEITEM>
+  <DTABLEITEM Name="SYBOX - PDF AUTO same folder">
+    <DFOLDER Name="Device">
+      <DVALUE Name="OutputType" Value="0" />
+      <DVALUE Name="SeparatePartialCuts" Value="0" />
+      <DVALUE Name="WindowsDriver" Value="1" />
+      <DVALUE Name="PrinterName" Value="" />
+      <DVALUE Name="DeviceName" Value="" />
+      <DVALUE Name="DeviceType" Value="0" />
+      <DVALUE Name="TuneFile" Value="TUNE.PDF.TXT" />
+      <DVALUE Name="CamTuneFileDesc" Value="PDF" />
+      <DVALUE Name="CamDriverName" Value="PDF" />
+      <DVALUE Name="PaperOrientation" Value="0" />
+      <DVALUE Name="NumCopies" Value="1" />
+      <DVALUE Name="SpecifyScale" Value="0" />
+      <DVALUE Name="Scale" Value="3f800000" />
+      <DVALUE Name="UseStretch" Value="0" />
+      <DVALUE Name="YScale" Value="3f800000" />
+      <DVALUE Name="CamDriverOptions" Value="" />
+      <DVALUE Name="ShowCmdForDebug" Value="0" />
+      <DVALUE Name="UseOutputCmdFile" Value="0" />
+      <DVALUE Name="OutputCmdFile" Value="" />
+      <DVALUE Name="ShownInOutput" Value="1" />
+      <DVALUE Name="ShownInExport" Value="0" />
+      <DVALUE Name="ShownInSend" Value="0" />
+      <DVALUE Name="ShownInBatch" Value="0" />
+      <DVALUE Name="ShownInWebCenter" Value="0" />
+      <DVALUE Name="ShownIn3D" Value="0" />
+      <DVALUE Name="ShownInProjectBOM" Value="0" />
+      <DVALUE Name="ShownInBrowser" Value="0" />
+      <DVALUE Name="ShownInCanvasBOM" Value="0" />
+      <DVALUE Name="BitmapFormat" Value="0" />
+      <DVALUE Name="BitmapRemoveWhiteSpace" Value="1" />
+      <DVALUE Name="BitmapJPEGQuality" Value="50" />
+      <DVALUE Name="BitmapBorder" Value="3" />
+      <DVALUE Name="BitmapSizeX" Value="64" />
+      <DVALUE Name="BitmapSizeY" Value="64" />
+      <DVALUE Name="HighGraphics" Value="e4e1c0" />
+      <DVALUE Name="OutputLayerName" Value="" />
+      <DVALUE Name="AutoOverwriteLayer" Value="1" />
+      <DVALUE Name="BitmapName" Value="custom_output.bmp" />
+      <DVALUE Name="VirtKey" Value="0" />
+      <DVALUE Name="ShortCut" Value="0" />
+      <DVALUE Name="AutoPreview" Value="0" />
+      <DVALUE Name="DefLayoutType" Value="0" />
+      <DVALUE Name="DefWindowSize" Value="0" />
+      <DVALUE Name="UNCDataSetName" Value="" />
+      <DVALUE Name="InfoFilterScaleExpr" Value="1.0" />
+      <DVALUE Name="InfoFilterYScaleExpr" Value="1.0" />
+    </DFOLDER>
+    <DFOLDER Name="Position">
+      <DVALUE Name="PrintRotation" Value="0" />
+      <DVALUE Name="PrintMirror" Value="0" />
+      <DVALUE Name="PrintPosition" Value="4" />
+      <DVALUE Name="OffsetX" Value="0" />
+      <DVALUE Name="OffsetY" Value="0" />
+      <DVALUE Name="PrintSide" Value="2" />
+      <DVALUE Name="FPos_XOff" Value="0" />
+      <DVALUE Name="FPos_YOff" Value="0" />
+      <DVALUE Name="FPos_Just" Value="0" />
+      <DVALUE Name="FPos_Type" Value="ffffffff" />
+      <DFOLDER Name="Paper Size">
+        <DVALUE Name="Height" Value="438bb333" />
+        <DVALUE Name="Width" Value="4357e666" />
+        <DVALUE Name="StartX" Value="0" />
+        <DVALUE Name="StartY" Value="0" />
+      </DFOLDER>
+      <DFOLDER Name="Margins">
+        <DVALUE Name="Left" Value="414b3333" />
+        <DVALUE Name="Right" Value="414b3333" />
+        <DVALUE Name="Top" Value="414b3333" />
+        <DVALUE Name="Bottom" Value="414b3333" />
+      </DFOLDER>
+      <DFOLDER Name="Windows Driver Pos">
+        <DVALUE Name="Left" Value="3f000000" />
+        <DVALUE Name="Right" Value="3f000000" />
+        <DVALUE Name="Top" Value="3f000000" />
+        <DVALUE Name="Bottom" Value="3f000000" />
+        <DVALUE Name="StartX" Value="0" />
+        <DVALUE Name="StartY" Value="0" />
+      </DFOLDER>
+    </DFOLDER>
+    <DFOLDER Name="Forms">
+      <DVALUE Name="UseForm" Value="0" />
+      <DVALUE Name="Name" Value="" />
+      <DVALUE Name="UseU3D" Value="0" />
+      <DVALUE Name="UseBlkGridPages" Value="0" />
+    </DFOLDER>
+    <DFOLDER Name="Sample Making">
+      <DFOLDER Name="Line Types">
+        <DVALUE Name="LineType0" Value="9" />
+        <DVALUE Name="LineType1" Value="9" />
+        <DVALUE Name="LineType2" Value="a" />
+        <DVALUE Name="LineType3" Value="a" />
+        <DVALUE Name="LineType4" Value="a" />
+        <DVALUE Name="LineType5" Value="2" />
+        <DVALUE Name="LineType6" Value="a" />
+        <DVALUE Name="LineType7" Value="1" />
+        <DVALUE Name="LineType8" Value="3" />
+        <DVALUE Name="LineType9" Value="9" />
+        <DVALUE Name="LineType10" Value="9" />
+        <DVALUE Name="LineType11" Value="4" />
+        <DVALUE Name="LineType12" Value="4" />
+        <DVALUE Name="LineType13" Value="4" />
+        <DVALUE Name="LineType14" Value="b" />
+        <DVALUE Name="LineType15" Value="c" />
+        <DVALUE Name="LineType16" Value="0" />
+        <DVALUE Name="LineType17" Value="a" />
+        <DVALUE Name="LineType18" Value="a" />
+        <DVALUE Name="LineType19" Value="9" />
+        <DVALUE Name="LineType20" Value="9" />
+        <DVALUE Name="LineType21" Value="9" />
+        <DVALUE Name="LineType22" Value="a" />
+        <DVALUE Name="LineType23" Value="a" />
+        <DVALUE Name="LineType24" Value="a" />
+        <DVALUE Name="LineType25" Value="a" />
+        <DVALUE Name="LineType26" Value="4" />
+        <DVALUE Name="UsePlotterFont" Value="1" />
+        <DVALUE Name="PerfCutBack" Value="0" />
+        <DVALUE Name="GPerfCutLen" Value="40c00000" />
+        <DVALUE Name="GPerfGapLen" Value="40c00000" />
+        <DVALUE Name="GCCCutLen" Value="40c00000" />
+        <DVALUE Name="GCCCreaseLen" Value="40c00000" />
+        <DVALUE Name="GGlueAssistCutLen" Value="40c00000" />
+        <DVALUE Name="GGlueAssistGapLen" Value="40c00000" />
+        <DVALUE Name="GPerfInChannelCutLen" Value="40c00000" />
+        <DVALUE Name="GPerfInChannelGapLen" Value="40c00000" />
+        <DVALUE Name="GPartCutCreaseCutLen" Value="40c00000" />
+        <DVALUE Name="GPartCutCreaseGapLen" Value="40c00000" />
+        <DVALUE Name="MakeNicks" Value="0" />
+        <DVALUE Name="AdjustOverCut" Value="40186666" />
+        <DVALUE Name="Caliper" Value="0" />
+        <DVALUE Name="CutStrippingRules" Value="0" />
+        <DVALUE Name="DrillDiam" Value="0" />
+      </DFOLDER>
+      <DFOLDER Name="Sequencing">
+        <DVALUE Name="RoundSlotMethod" Value="1" />
+        <DVALUE Name="TearDist" Value="41000419" />
+        <DVALUE Name="TearAngle" Value="42700000" />
+        <DVALUE Name="OvercutMethod" Value="0" />
+        <DVALUE Name="SplitLines" Value="0" />
+        <DVALUE Name="CutOvercrease" Value="414b3333" />
+        <DVALUE Name="GapOvercrease" Value="40400000" />
+        <DVALUE Name="RoundCorners" Value="0" />
+        <DVALUE Name="Radius" Value="3fcb3333" />
+        <DVALUE Name="MinLength" Value="424b3333" />
+        <DVALUE Name="GapFuzz" Value="3e820c4a" />
+        <DVALUE Name="SlotParam" Value="3fa28f5c" />
+        <DVALUE Name="TangTol" Value="41c80000" />
+      </DFOLDER>
+      <DFOLDER Name="Creases">
+        <DVALUE Name="CreaseCutBack" Value="40000000" />
+        <DVALUE Name="DoublePass" Value="0" />
+        <DVALUE Name="noDoubleLines" Value="0" />
+        <DVALUE Name="FixedOffsetOn" Value="0" />
+        <DVALUE Name="FixedOffset" Value="0" />
+        <DVALUE Name="MultOfCalOn" Value="0" />
+        <DVALUE Name="MultOfCal" Value="0" />
+        <DVALUE Name="PointageOn" Value="0" />
+        <DVALUE Name="Pointage" Value="3f361134" />
+        <DVALUE Name="Pointage2" Value="3f361134" />
+        <DVALUE Name="RevDoublePass" Value="0" />
+        <DVALUE Name="SecondCrease" Value="0" />
+        <DVALUE Name="SecondThickCrease" Value="0" />
+      </DFOLDER>
+      <DFOLDER Name="Counter">
+        <DVALUE Name="CreaseType" Value="0" />
+        <DVALUE Name="GrainPFactor" Value="3f800000" />
+        <DVALUE Name="GrainCALFactor" Value="40000000" />
+        <DVALUE Name="GrainWidth" Value="0" />
+        <DVALUE Name="CrossGrainPFactor" Value="3f800000" />
+        <DVALUE Name="CrossGrainCALFactor" Value="40000000" />
+        <DVALUE Name="CrossGrainWidth" Value="3dd013a9" />
+        <DVALUE Name="CounterCutBack" Value="3f820c4a" />
+        <DVALUE Name="ChannelAngle" Value="42480000" />
+        <DVALUE Name="RouterWidth" Value="3fa28f5c" />
+        <DVALUE Name="SecondRouter" Value="0" />
+        <DVALUE Name="SecondRouterWidth" Value="3faf9097" />
+        <DVALUE Name="CreaseType1" Value="0" />
+        <DVALUE Name="GrainPFactor1" Value="3f800000" />
+        <DVALUE Name="GrainCALFactor1" Value="40000000" />
+        <DVALUE Name="GrainWidth1" Value="0" />
+        <DVALUE Name="CrossGrainPFactor1" Value="3f800000" />
+        <DVALUE Name="CrossGrainCALFactor1" Value="40000000" />
+        <DVALUE Name="CrossGrainWidth1" Value="3dd013a9" />
+        <DVALUE Name="CounterCutBack1" Value="3f820c4a" />
+        <DVALUE Name="ChannelAngle1" Value="42480000" />
+        <DVALUE Name="RouterWidth1" Value="3fa28f5c" />
+        <DVALUE Name="SecondRouter1" Value="0" />
+        <DVALUE Name="SecondRouterWidth1" Value="3faf9097" />
+        <DVALUE Name="CreaseType2" Value="0" />
+        <DVALUE Name="GrainPFactor2" Value="3f800000" />
+        <DVALUE Name="GrainCALFactor2" Value="40000000" />
+        <DVALUE Name="GrainWidth2" Value="0" />
+        <DVALUE Name="CrossGrainPFactor2" Value="3f800000" />
+        <DVALUE Name="CrossGrainCALFactor2" Value="40000000" />
+        <DVALUE Name="CrossGrainWidth2" Value="3dd013a9" />
+        <DVALUE Name="CounterCutBack2" Value="3f820c4a" />
+        <DVALUE Name="ChannelAngle2" Value="42480000" />
+        <DVALUE Name="RouterWidth2" Value="3fa28f5c" />
+        <DVALUE Name="SecondRouter2" Value="0" />
+        <DVALUE Name="SecondRouterWidth2" Value="3faf9097" />
+        <DVALUE Name="GrainAngleTol" Value="41700000" />
+      </DFOLDER>
+    </DFOLDER>
+    <DFOLDER Name="Directories">
+      <DVALUE Name="DestinationType" Value="1" />
+      <DVALUE Name="OutputToFile" Value="1" />
+      <DVALUE Name="MakeDOSCompatible" Value="0" />
+      <DVALUE Name="StripOption" Value="0" />
+      <DVALUE Name="AutoOverwrite" Value="1" />
+      <DVALUE Name="SkipSaveAsDlg" Value="1" />
+      <DVALUE Name="SkipOutputDlg" Value="0" />
+      <DVALUE Name="PromptForProjectDoc" Value="1" />
+      <DVALUE Name="FixedProjectName" Value="0" />
+      <DVALUE Name="ProjectNameUseLibFnction" Value="0" />
+      <DVALUE Name="ProjectName" Value="" />
+      <DVALUE Name="AutoCreateProject" Value="1" />
+      <DVALUE Name="FixedProjectTemplate" Value="0" />
+      <DVALUE Name="ProjectTemplateUseLibFnction" Value="0" />
+      <DVALUE Name="ProjectTemplate" Value="" />
+      <DFOLDER Name="Counter">
+        <DVALUE Name="Extension" Value=".pdf" />
+        <DVALUE Name="Directory" Value="{{ACMDIR}}" />
+        <DVALUE Name="FixedFileName" Value="0" />
+        <DVALUE Name="FromCmdFile" Value="0" />
+        <DVALUE Name="DirFromCmdFile" Value="0" />
+        <DVALUE Name="ProjectFolderOption" Value="0" />
+        <DVALUE Name="ProjectFolderName" Value="" />
+        <DVALUE Name="ProjectFolderUseLibFnctn" Value="0" />
+        <DVALUE Name="VersionCommentOption" Value="0" />
+        <DVALUE Name="VersionComment" Value="" />
+        <DVALUE Name="VersionCommentUseLibFnctn" Value="0" />
+      </DFOLDER>
+      <DFOLDER Name="PartialCuts">
+        <DVALUE Name="Extension" Value="" />
+        <DVALUE Name="Directory" Value="" />
+        <DVALUE Name="FixedFileName" Value="0" />
+        <DVALUE Name="FromCmdFile" Value="0" />
+        <DVALUE Name="DirFromCmdFile" Value="0" />
+        <DVALUE Name="ProjectFolderOption" Value="0" />
+        <DVALUE Name="ProjectFolderName" Value="" />
+        <DVALUE Name="ProjectFolderUseLibFnctn" Value="0" />
+        <DVALUE Name="VersionCommentOption" Value="0" />
+        <DVALUE Name="VersionComment" Value="" />
+        <DVALUE Name="VersionCommentUseLibFnctn" Value="0" />
+      </DFOLDER>
+      <DFOLDER Name="MakeSample">
+        <DVALUE Name="Extension" Value="" />
+        <DVALUE Name="Directory" Value="" />
+        <DVALUE Name="FixedFileName" Value="0" />
+        <DVALUE Name="FromCmdFile" Value="0" />
+        <DVALUE Name="DirFromCmdFile" Value="0" />
+        <DVALUE Name="ProjectFolderOption" Value="0" />
+        <DVALUE Name="ProjectFolderName" Value="" />
+        <DVALUE Name="ProjectFolderUseLibFnctn" Value="0" />
+        <DVALUE Name="VersionCommentOption" Value="0" />
+        <DVALUE Name="VersionComment" Value="" />
+        <DVALUE Name="VersionCommentUseLibFnctn" Value="0" />
+      </DFOLDER>
+    </DFOLDER>
+    <DFOLDER Name="View">
+      <DVALUE Name="PrintStyle" Value="" />
+      <DVALUE Name="LayerSelSet" Value="0" />
+      <DVALUE Name="UserLayerList" Value="" />
+      <DVALUE Name="MfgPredLayerList" Value="" />
+      <DVALUE Name="RotDieViewLevel" Value="0" />
+      <DVALUE Name="AutoAdjustText" Value="0" />
+      <DVALUE Name="MinTextSize" Value="0" />
+      <DVALUE Name="MaxTextSize" Value="0" />
+      <DVALUE Name="RemoveExtLines" Value="0" />
+      <DVALUE Name="GenLeaderHoles" Value="0" />
+      <DVALUE Name="NoHolesInCorners" Value="0" />
+      <DVALUE Name="AdjustLeaderHolesOnBridges" Value="0" />
+      <DVALUE Name="LeaderHoleAllowReduction" Value="3ecb3333" />
+      <DVALUE Name="RuleLabels" Value="0" />
+      <DVALUE Name="FullBoardDepth" Value="41cb3333" />
+      <DVALUE Name="LeaderHoleNoHoleLen" Value="40cb3333" />
+      <DVALUE Name="LeaderHoleLeadInLen" Value="404b3333" />
+      <DVALUE Name="LeaderHoleOneHoleLen" Value="41186666" />
+      <DVALUE Name="LeaderHoleLongSawLen" Value="42fe0000" />
+      <DVALUE Name="ViewSelection" Value="2" />
+      <DVALUE Name="UseSelectionForReports" Value="0" />
+      <DFOLDER Name="Dimension Format Table">
+        <DVALUE Name="OverrideDimFormat" Value="0" />
+        <DVALUE Name="UnitType" Value="0" />
+        <DVALUE Name="InchFormatType" Value="D" />
+        <DVALUE Name="InchNumDP" Value="3" />
+        <DVALUE Name="MMNumDP" Value="3" />
+        <DVALUE Name="ShowTrailZeros" Value="1" />
+        <DVALUE Name="RoundDimVal" Value="0" />
+        <DVALUE Name="ConsistentDim" Value="0" />
+        <DVALUE Name="WarningRoundDim" Value="0" />
+      </DFOLDER>
+    </DFOLDER>
+    <DFOLDER Name="Print Sample">
+      <DVALUE Name="OutputToFile" Value="0" />
+      <DVALUE Name="DeviceName" Value="" />
+      <DVALUE Name="DeviceType" Value="1" />
+      <DVALUE Name="DriverName" Value="" />
+      <DVALUE Name="PlotCommand" Value="0" />
+      <DVALUE Name="DriverFound" Value="0" />
+      <DVALUE Name="TuneFile" Value="" />
+      <DVALUE Name="CamTuneFileDesc" Value="" />
+      <DVALUE Name="WindowsDriver" Value="0" />
+      <DVALUE Name="PrinterName" Value="" />
+      <DVALUE Name="PaperOrientation" Value="0" />
+      <DVALUE Name="NumCopies" Value="1" />
+      <DVALUE Name="CamDriverOptions" Value="" />
+      <DFOLDER Name="PrintSample">
+        <DVALUE Name="Extension" Value="" />
+        <DVALUE Name="Directory" Value="" />
+        <DVALUE Name="FixedFileName" Value="0" />
+        <DVALUE Name="FromCmdFile" Value="0" />
+        <DVALUE Name="DirFromCmdFile" Value="0" />
+        <DVALUE Name="ProjectFolderOption" Value="0" />
+        <DVALUE Name="ProjectFolderName" Value="" />
+        <DVALUE Name="ProjectFolderUseLibFnctn" Value="0" />
+        <DVALUE Name="VersionCommentOption" Value="0" />
+        <DVALUE Name="VersionComment" Value="" />
+        <DVALUE Name="VersionCommentUseLibFnctn" Value="0" />
+      </DFOLDER>
+      <DFOLDER Name="Margins">
+        <DVALUE Name="Left" Value="0" />
+        <DVALUE Name="Right" Value="0" />
+        <DVALUE Name="Top" Value="0" />
+        <DVALUE Name="Bottom" Value="0" />
+      </DFOLDER>
+    </DFOLDER>
+    <DFOLDER Name="Print Sample Position">
+      <DVALUE Name="PrintRotation" Value="0" />
+      <DVALUE Name="PrintMirror" Value="0" />
+      <DVALUE Name="PrintPosition" Value="4" />
+      <DVALUE Name="OffsetX" Value="0" />
+      <DVALUE Name="OffsetY" Value="0" />
+      <DVALUE Name="PrintSide" Value="2" />
+      <DVALUE Name="FPos_XOff" Value="0" />
+      <DVALUE Name="FPos_YOff" Value="0" />
+      <DVALUE Name="FPos_Just" Value="4" />
+      <DVALUE Name="FPos_Type" Value="ffffffff" />
+      <DFOLDER Name="Paper Size">
+        <DVALUE Name="Height" Value="438bb333" />
+        <DVALUE Name="Width" Value="4357e666" />
+        <DVALUE Name="StartX" Value="0" />
+        <DVALUE Name="StartY" Value="0" />
+      </DFOLDER>
+      <DFOLDER Name="Margins">
+        <DVALUE Name="Left" Value="0" />
+        <DVALUE Name="Right" Value="0" />
+        <DVALUE Name="Top" Value="0" />
+        <DVALUE Name="Bottom" Value="0" />
+      </DFOLDER>
+      <DFOLDER Name="Windows Driver Pos">
+        <DVALUE Name="Left" Value="3f000000" />
+        <DVALUE Name="Right" Value="3f000000" />
+        <DVALUE Name="Top" Value="3f000000" />
+        <DVALUE Name="Bottom" Value="3f000000" />
+        <DVALUE Name="StartX" Value="0" />
+        <DVALUE Name="StartY" Value="0" />
+      </DFOLDER>
+    </DFOLDER>
+    <DFOLDER Name="Optimization">
+      <DVALUE Name="OptimizeOption" Value="0" />
+      <DVALUE Name="ProcSpRuleOpt" Value="1" />
+      <DVALUE Name="ProcBridgeOpt" Value="ffffffff" />
+      <DVALUE Name="EnableSubroutinedOutput" Value="0" />
+      <DVALUE Name="UsePlotterFont" Value="3" />
+      <DVALUE Name="LaserTuningEntry" Value="" />
+      <DVALUE Name="LaserTuningKey" Value="" />
+      <DVALUE Name="IgnoreDieSplits" Value="0" />
+      <DVALUE Name="NickStyle" Value="" />
+      <DVALUE Name="NickGaps" Value="0" />
+      <DVALUE Name="UnderCutAtDieSplitsLen" Value="0" />
+      <DVALUE Name="UnderCutAtCreaseEndsLen" Value="0" />
+      <DVALUE Name="MinUnderCutLen" Value="0" />
+      <DVALUE Name="SoftwareLineStyles" Value="0" />
+      <DVALUE Name="FillRubber" Value="1" />
+      <DVALUE Name="FillRubberColorOption" Value="0" />
+      <DVALUE Name="ShowRubberElemNum" Value="0" />
+      <DVALUE Name="ShowRubberElemNumItalic" Value="1" />
+      <DVALUE Name="ShowRubberElemNumSize" Value="42400000" />
+      <DVALUE Name="ShowBlkGridId" Value="0" />
+      <DVALUE Name="ShowBlkGridIdSize" Value="43480000" />
+      <DVALUE Name="CreaseCutbackInfoData" Value="0" />
+      <DVALUE Name="CreaseCutbackInfoSize" Value="0" />
+      <DVALUE Name="ZeroLengthLines" Value="0" />
+      <DVALUE Name="StrippingAreas" Value="0" />
+      <DVALUE Name="StationNumbers" Value="1" />
+      <DVALUE Name="WasteNumbers" Value="1" />
+    </DFOLDER>
+    <DFOLDER Name="KGB Link">
+      <DVALUE Name="AutoOpenKGBGui" Value="0" />
+      <DVALUE Name="PickKGBMaterialFile" Value="0" />
+      <DVALUE Name="KGBSourceOption" Value="0" />
+      <DVALUE Name="PickKGBMaterialFilePath" Value="" />
+      <DVALUE Name="IPCSystemName" Value="" />
+    </DFOLDER>
+    <DFOLDER Name="Tiling Data">
+      <DVALUE Name="RegMarkSize" Value="41cb3333" />
+      <DVALUE Name="TileOverlap" Value="0" />
+      <DVALUE Name="RegHoleSize" Value="40cb3333" />
+      <DVALUE Name="RegMarkOffset" Value="0" />
+      <DVALUE Name="UsingSampleCounter" Value="1" />
+      <DVALUE Name="TileFileExtString" Value="_" />
+      <DVALUE Name="TileFileExtGenOption" Value="0" />
+      <DVALUE Name="SkipEmptyTiles" Value="0" />
+      <DVALUE Name="PauseBetweenTiles" Value="0" />
+      <DVALUE Name="AllTilesOneFile" Value="0" />
+    </DFOLDER>
+    <DFOLDER Name="Information Filter">
+      <DVALUE Name="InfoType1" Value="1" />
+      <DVALUE Name="InfoType2" Value="1" />
+      <DVALUE Name="InfoType3" Value="1" />
+      <DVALUE Name="InfoType4" Value="1" />
+      <DVALUE Name="InfoType5" Value="1" />
+      <DVALUE Name="InfoType6" Value="1" />
+      <DVALUE Name="InfoType7" Value="1" />
+      <DVALUE Name="InfoType8" Value="1" />
+      <DVALUE Name="InfoType9" Value="1" />
+      <DVALUE Name="InfoType10" Value="1" />
+      <DVALUE Name="InfoType11" Value="1" />
+      <DVALUE Name="DesignLayer1" Value="1" />
+      <DVALUE Name="DesignLayer2" Value="1" />
+      <DVALUE Name="DesignLayer3" Value="1" />
+      <DVALUE Name="DesignLayer4" Value="1" />
+      <DVALUE Name="DesignLayer5" Value="1" />
+      <DVALUE Name="DesignLayer6" Value="1" />
+      <DVALUE Name="DesignLayer7" Value="1" />
+      <DVALUE Name="DesignLayer8" Value="1" />
+      <DVALUE Name="DesignLayer9" Value="1" />
+      <DVALUE Name="DesignLayer10" Value="1" />
+      <DVALUE Name="DesignLayer11" Value="1" />
+      <DVALUE Name="DesignLayer14" Value="1" />
+      <DVALUE Name="DesignLayer15" Value="1" />
+      <DVALUE Name="DesignLayer16" Value="1" />
+      <DVALUE Name="DesignLayer17" Value="1" />
+      <DVALUE Name="DesignLayer18" Value="1" />
+      <DVALUE Name="DesignLayer19" Value="1" />
+      <DVALUE Name="DesignLayer20" Value="1" />
+      <DVALUE Name="DesignLayer21" Value="1" />
+      <DVALUE Name="DesignLayer22" Value="1" />
+      <DVALUE Name="DesignLayer23" Value="1" />
+      <DVALUE Name="DesignLayer24" Value="1" />
+      <DVALUE Name="DesignLayer25" Value="1" />
+      <DVALUE Name="ManuLayer1" Value="1" />
+      <DVALUE Name="ManuLayer2" Value="1" />
+      <DVALUE Name="ManuLayer3" Value="1" />
+      <DVALUE Name="ManuLayer4" Value="1" />
+      <DVALUE Name="ManuLayer5" Value="1" />
+      <DVALUE Name="ManuLayer6" Value="1" />
+      <DVALUE Name="ManuLayer7" Value="1" />
+      <DVALUE Name="ManuLayer8" Value="1" />
+      <DVALUE Name="ArtiosCADFormat" Value="0" />
+      <DVALUE Name="EmbedDepFiles" Value="0" />
+    </DFOLDER>
+    <DFOLDER Name="Send to">
+      <DVALUE Name="UseEmail" Value="0" />
+      <DVALUE Name="PromptForMessage" Value="0" />
+      <DVALUE Name="InsertOption" Value="0" />
+      <DVALUE Name="DeleteOriginal" Value="1" />
+      <DVALUE Name="ToRecipient" Value="" />
+      <DVALUE Name="CcRecipient" Value="" />
+      <DVALUE Name="Subject" Value="" />
+    </DFOLDER>
+    <DFOLDER Name="Group">
+      <DVALUE Name="OutputList" Value="" />
+      <DVALUE Name="OutputListData" Value="" />
+      <DVALUE Name="RunSave" Value="0" />
+      <DVALUE Name="RunSaveAs" Value="0" />
+      <DVALUE Name="GroupedOutputType" Value="0" />
+    </DFOLDER>
+    <DFOLDER Name="Advanced Data">
+      <DVALUE Name="UseOutputCmdFile" Value="0" />
+      <DVALUE Name="OutputCmdFile" Value="" />
+      <DVALUE Name="OutputCmdFileParams" Value="" />
+      <DVALUE Name="UseOutputPPCmdFile" Value="0" />
+      <DVALUE Name="OutputPPCmdFile" Value="" />
+      <DVALUE Name="UsePromptingReport" Value="0" />
+      <DVALUE Name="PromptingReportName" Value="" />
+      <DVALUE Name="RTDatSet" Value="" />
+      <DVALUE Name="LaunchExeOption" Value="0" />
+      <DVALUE Name="ExeToLaunch" Value="" />
+      <DVALUE Name="ExeBlockOption" Value="1" />
+      <DVALUE Name="ExeInputParamOption" Value="0" />
+      <DVALUE Name="ExeOutputParamOption" Value="0" />
+      <DVALUE Name="ExeAddParamFormula" Value="" />
+    </DFOLDER>
+    <DFOLDER Name="Counter parameter sets">
+      <DVALUE Name="WithGrainCreaseToolWidth" Value="3fd9999a" />
+      <DVALUE Name="WithGrainCreaseToolMultiPass" Value="1" />
+      <DVALUE Name="CrossGrainCreaseToolWidth" Value="3fe66666" />
+      <DVALUE Name="CrossGrainCreaseToolMultiPass" Value="1" />
+      <DVALUE Name="CreaseEndToolWidth" Value="3fa66666" />
+      <DVALUE Name="WithGrainSlotToolWidth" Value="3fd9999a" />
+      <DVALUE Name="WithGrainSlotToolMultiPass" Value="1" />
+      <DVALUE Name="CrossGrainSlotToolWidth" Value="3fe66666" />
+      <DVALUE Name="CrossGrainSlotToolMultiPass" Value="1" />
+      <DVALUE Name="MillingToolWidth" Value="3fa66666" />
+      <DVALUE Name="PosHolesToolWidth" Value="3fa66666" />
+      <DVALUE Name="PosHolesToolDiamAllowed" Value="1" />
+      <DVALUE Name="MillingDirection" Value="0" />
+      <DVALUE Name="MillingOverlap" Value="3dcccccd" />
+      <DVALUE Name="ToolOrderPosition0" Value="0" />
+      <DVALUE Name="ToolOrderPosition1" Value="1" />
+      <DVALUE Name="ToolOrderPosition2" Value="2" />
+      <DVALUE Name="ToolOrderPosition3" Value="3" />
+      <DVALUE Name="ToolOrderPosition4" Value="4" />
+      <DVALUE Name="ToolOrderPosition5" Value="5" />
+      <DVALUE Name="ToolOrderPosition6" Value="6" />
+      <DVALUE Name="ToolOrderPosition7" Value="7" />
+      <DVALUE Name="ToolOrderPosition8" Value="8" />
+      <DVALUE Name="ToolOrderPosition9" Value="9" />
+      <DVALUE Name="ToolOrderPosition10" Value="a" />
+      <DVALUE Name="CreaseMultiPass" Value="0" />
+    </DFOLDER>
+    <DFOLDER Name="Sequencing">
+      <DVALUE Name="Resequence" Value="1" />
+      <DVALUE Name="Start" Value="1" />
+      <DVALUE Name="Type" Value="1" />
+      <DVALUE Name="JoinOption" Value="0" />
+      <DVALUE Name="GapCutThrough" Value="414b3333" />
+    </DFOLDER>
+    <DFOLDER Name="Rubber Sheet Data">
+      <DVALUE Name="TileCodeSepString" Value="_" />
+      <DVALUE Name="TileCodeIndexSepString" Value="_" />
+      <DVALUE Name="TileCodeIndexOption" Value="0" />
+    </DFOLDER>
+    <DFOLDER Name="PDF Options">
+      <DVALUE Name="EnableOpenPswd" Value="0" />
+      <DVALUE Name="OpenPassword" Value="" />
+      <DVALUE Name="OpenEncrypted" Value="0" />
+      <DVALUE Name="EnableSecurityPerms" Value="0" />
+      <DVALUE Name="PrintingPermOption" Value="0" />
+      <DVALUE Name="ChangePermOption" Value="0" />
+      <DVALUE Name="EnableCopyText" Value="0" />
+      <DVALUE Name="EnableTextAccess" Value="0" />
+      <DVALUE Name="Encrypted" Value="0" />
+      <DVALUE Name="Password" Value="" />
+      <DVALUE Name="ImageCompression" Value="0" />
+    </DFOLDER>
+    <DFOLDER Name="U3D Options">
+      <DVALUE Name="UseViewSettings" Value="0" />
+      <DVALUE Name="UseWorkspaceBackground" Value="1" />
+      <DVALUE Name="CompressQuality" Value="50" />
+      <DVALUE Name="HighGraphics" Value="1" />
+      <DVALUE Name="CompressImageOption" Value="1" />
+      <DVALUE Name="BackgroundRed" Value="ff" />
+      <DVALUE Name="BackgroundGreen" Value="ff" />
+      <DVALUE Name="BackgroundBlue" Value="ff" />
+      <DVALUE Name="IncludeAnimations" Value="1" />
+    </DFOLDER>
+    <DFOLDER Name="BOM Options">
+      <DVALUE Name="DriverType" Value="0" />
+      <DVALUE Name="BOMReportTypes" Value="" />
+      <DVALUE Name="BOMReports" Value="" />
+      <DVALUE Name="XMLTemplateName" Value="" />
+      <DVALUE Name="XMLAddDesData" Value="1" />
+      <DVALUE Name="AutoSavePromptingInfo" Value="0" />
+      <DVALUE Name="m_ShowProjectInfoDlg" Value="0" />
+    </DFOLDER>
+  </DTABLEITEM>
+</OUTPUTTEMPLATE>
