@@ -1,0 +1,13 @@
+{
+  "supportedArtiosVersion": "22.07",
+  "stagingRoot": "%LOCALAPPDATA%\\ArtiosCADFastExport\\Jobs",
+  "logDirectory": "%LOCALAPPDATA%\\ArtiosCADFastExport\\Logs",
+  "inputTimeoutSeconds": 30,
+  "overwriteExisting": true,
+  "preserveFailedJobs": true,
+  "profiles": [
+    { "name": "Plotter (ACM / DXF)", "formats": ["ACM", "DXF"] },
+    { "name": "Plotter (ACM / DXF / PDF)", "formats": ["ACM", "DXF", "PDF"] },
+    { "name": "Plotter (ACM / DXF / PDF / EPS)", "formats": ["ACM", "DXF", "PDF", "EPS"] }
+  ]
+}

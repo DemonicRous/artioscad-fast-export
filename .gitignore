@@ -1,0 +1,9 @@
+bin/
+obj/
+artifacts/
+releases/
+*.local.json
+*.user
+*.suo
+*.log
+.vs/
