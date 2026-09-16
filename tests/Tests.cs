@@ -107,6 +107,34 @@ internal static class Tests
         var generated = Setup.Generate(template, @"\\server\share\Fast Export", Path.Combine(root, "Incoming"));
         Check(generated.SelectNodes("/OUTPUTTEMPLATE/DTABLEITEM").Count == 12, "three groups and nine internal outputs");
         Check(!generated.OuterXml.Contains("{{") && !generated.OuterXml.Contains(@"C:\CAM"), "no unresolved tokens or shared C CAM path");
+        // Новый профиль: ни одно устройство из старого прототипа не требуется.
+        // Проверяем отсутствие всего Defaults, отсутствие Outputs и пустой раздел Outputs.
+        string[] cleanProfiles = {
+            "<ROOT LastSavedVersion=\"22.07\" />",
+            "<ROOT LastSavedVersion=\"22.07\"><DFOLDER Name=\"Defaults\" /></ROOT>",
+            "<ROOT LastSavedVersion=\"22.07\"><DFOLDER Name=\"Defaults\"><DTABLE Name=\"Outputs\" /></DFOLDER></ROOT>"
+        };
+        for (int i = 0; i < cleanProfiles.Length; i++)
+        {
+            string cleanZip = Path.Combine(root, "fresh-defaults-" + i + ".zip");
+            using (var file = File.Create(cleanZip))
+            using (var zip = new ZipArchive(file, ZipArchiveMode.Create))
+            using (var writer = new StreamWriter(zip.CreateEntry("clientdflt.xml").Open()))
+                writer.Write(cleanProfiles[i]);
+            string cleanBackup = Setup.Install(cleanZip, generated);
+            using (var file = File.OpenRead(cleanZip))
+            using (var zip = new ZipArchive(file, ZipArchiveMode.Read))
+            using (var stream = zip.GetEntry("clientdflt.xml").Open())
+            {
+                var installed = new XmlDocument(); installed.Load(stream);
+                Check(installed.SelectNodes("/*/DFOLDER[@Name='Defaults']/DTABLE[@Name='Outputs']/DTABLEITEM").Count == 12,
+                    "fresh profile " + i + ": install all 12 outputs without existing devices");
+                int visible = 0;
+                foreach (XmlElement item in installed.SelectNodes("/*/DFOLDER/DTABLE/DTABLEITEM"))
+                    if (item.SelectSingleNode(".//DVALUE[@Name='ShownInOutput' and @Value='1']") != null) visible++;
+                Check(visible == 3 && File.Exists(cleanBackup), "fresh profile " + i + ": three visible groups and backup");
+            }
+        }
         string zipPath = Path.Combine(root, "clientdflt.zip");
         using (var file = File.Create(zipPath))
         using (var zip = new ZipArchive(file, ZipArchiveMode.Create))

@@ -114,6 +114,9 @@ namespace ArtiosCadFastExport
                         if (version != "22.07") throw new InvalidDataException("Поддерживаются Defaults только версии 22.07, получено: " + version);
                         var defaults = Child(doc.DocumentElement, "DFOLDER", "Defaults");
                         var table = Child(defaults, "DTABLE", "Outputs");
+                        // Это установка и обновление: отсутствующие Defaults/Outputs создаются выше.
+                        // Самих устройств у пользователя может не быть — берём их целиком из комплекта.
+                        // Удаляем только одноимённые записи, чтобы повторная установка не создавала дублей.
                         foreach (XmlElement newItem in outputs.DocumentElement.ChildNodes)
                         {
                             var remove = new List<XmlNode>();
